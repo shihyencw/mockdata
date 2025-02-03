@@ -1,995 +1,995 @@
 {
-    "search_metadata": {
-      "id": "67a0299f95dc1206400738fb",
-      "status": "Success",
-      "json_endpoint": "https://serpapi.com/searches/c7004920ce3c9f54/67a0299f95dc1206400738fb.json",
-      "created_at": "2025-02-03 02:27:43 UTC",
-      "processed_at": "2025-02-03 02:27:43 UTC",
-      "google_news_url": "https://news.google.com/search?q=%E5%8F%B0%E7%81%A3%E6%87%89%E7%94%A8%E6%9D%90%E6%96%99%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&gl=TW",
-      "raw_html_file": "https://serpapi.com/searches/c7004920ce3c9f54/67a0299f95dc1206400738fb.html",
-      "total_time_taken": 2.61
+  "search_metadata": {
+    "id": "67a0299f95dc1206400738fb",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/c7004920ce3c9f54/67a0299f95dc1206400738fb.json",
+    "created_at": "2025-02-03 02:27:43 UTC",
+    "processed_at": "2025-02-03 02:27:43 UTC",
+    "google_news_url": "https://news.google.com/search?q=%E5%8F%B0%E7%81%A3%E6%87%89%E7%94%A8%E6%9D%90%E6%96%99%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&gl=TW",
+    "raw_html_file": "https://serpapi.com/searches/c7004920ce3c9f54/67a0299f95dc1206400738fb.html",
+    "total_time_taken": 2.61
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "gl": "tw",
+    "q": "台灣應用材料股份有限公司"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "南臺科技大學、成大南工、新化高工、臺南海事、長榮中學與台灣應用材料公司攜手辦理「半導體與顯示器設備製造產學攜手合作專班」",
+      "source": {
+        "name": "中央社即時新聞",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cna.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.cna.com.tw/postwrite/chi/378987",
+      "thumbnail": "https://imgcdn.cna.com.tw/www/postwrite/2024/20240816/00378987.202408162085143189M.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlOVTltU1RNelVFZENPR2RaVFJENEF4amdCQ2dLTWdhQmtJaEFVd00",
+      "date": "08/16/2024, 07:00 AM, +0000 UTC"
     },
-    "search_parameters": {
-      "engine": "google_news",
-      "gl": "tw",
-      "q": "台灣應用材料股份有限公司"
+    {
+      "position": 2,
+      "title": "應材明年Q1示警 台廠備戰",
+      "source": {
+        "name": "Yahoo奇摩股市",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://tw.stock.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://tw.stock.yahoo.com/news/%E6%87%89%E6%9D%90%E6%98%8E%E5%B9%B4q1%E7%A4%BA%E8%AD%A6-%E5%8F%B0%E5%BB%A0%E5%82%99%E6%88%B0-201000714.html",
+      "thumbnail": "https://s.yimg.com/ny/api/res/1.2/hr2GHBnqtfRzbTLFgXd1fw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTMyMA--/https://media.zenfs.com/ko/ctee_com_tw_678/ba4614b4c356e50a5e23ab5f6b3bb52b",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFkMmt5T1MxblVrRkpjelJhVFJEQUFoaUFCU2dLTWdZVkFJVHRFQWM",
+      "date": "11/15/2024, 08:00 AM, +0000 UTC"
     },
-    "news_results": [
-      {
-        "position": 1,
-        "title": "南臺科技大學、成大南工、新化高工、臺南海事、長榮中學與台灣應用材料公司攜手辦理「半導體與顯示器設備製造產學攜手合作專班」",
-        "source": {
-          "name": "中央社即時新聞",
-          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cna.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://www.cna.com.tw/postwrite/chi/378987",
-        "thumbnail": "https://imgcdn.cna.com.tw/www/postwrite/2024/20240816/00378987.202408162085143189M.jpg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlOVTltU1RNelVFZENPR2RaVFJENEF4amdCQ2dLTWdhQmtJaEFVd00",
-        "date": "08/16/2024, 07:00 AM, +0000 UTC"
-      },
-      {
-        "position": 2,
-        "title": "應材明年Q1示警 台廠備戰",
-        "source": {
-          "name": "Yahoo奇摩股市",
-          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://tw.stock.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://tw.stock.yahoo.com/news/%E6%87%89%E6%9D%90%E6%98%8E%E5%B9%B4q1%E7%A4%BA%E8%AD%A6-%E5%8F%B0%E5%BB%A0%E5%82%99%E6%88%B0-201000714.html",
-        "thumbnail": "https://s.yimg.com/ny/api/res/1.2/hr2GHBnqtfRzbTLFgXd1fw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTMyMA--/https://media.zenfs.com/ko/ctee_com_tw_678/ba4614b4c356e50a5e23ab5f6b3bb52b",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFkMmt5T1MxblVrRkpjelJhVFJEQUFoaUFCU2dLTWdZVkFJVHRFQWM",
-        "date": "11/15/2024, 08:00 AM, +0000 UTC"
-      },
-      {
-        "position": 3,
-        "title": "新應材跨足半導體有成，今年賺近一個股本！最大功臣是「他」",
-        "source": {
-          "name": "TechNews 科技新報",
-          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.technews.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-          "authors": [
-            "今周刊"
-          ]
-        },
-        "link": "https://finance.technews.tw/2024/11/30/story-of-aemc/",
-        "thumbnail": "https://img.technews.tw/wp-content/uploads/2022/01/04162412/shutterstock_783284701-768x512.jpg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRlR0phUWkxSldGWm5hak5FVFJERUF4aW1CU2dLTWdZQk01Q3JKUWM",
-        "date": "11/30/2024, 08:00 AM, +0000 UTC"
-      },
-      {
-        "position": 4,
-        "title": "[台灣應材放大絕召募理工女僑生與外籍生]",
-        "source": {
-          "name": "1111產經新聞網",
-          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.1111.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://www.1111.com.tw/news/jobns/155430",
-        "thumbnail": "https://images.1111.com.tw/11media/upload/1710927487.jpg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJiVWx5VlcwMFJqWkJkWFZRVFJDUUF4aVlCQ2dLTWdZQmNaQW5OUVk",
-        "date": "03/20/2024, 07:00 AM, +0000 UTC"
-      },
-      {
-        "position": 5,
-        "title": "維也納啤酒節拉開序幕 美酒佳餚加美景 跟著音樂微醺搖擺",
-        "source": {
-          "name": "台南旅遊網",
-          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.twtainan.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://www.twtainan.net/zh-tw/event/newsdetail/5279/",
-        "thumbnail": "https://www.twtainan.net/content/images/articles/93789/1024x768_articles-image-1vul-01n1km-ksosmhbzqg.jpg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNkbWxCU1Y4NVJGOVRZVVoyVFJDM0FSaVRBaWdCTWdZQmdJb2hTd1U",
-        "date": "01/24/2025, 10:15 PM, +0000 UTC"
-      },
-      {
-        "position": 6,
-        "title": "PBA碧綠威打入應材EPIC先進封裝技術平台- 商情",
-        "source": {
-          "name": "工商時報",
-          "icon": "https://lh3.googleusercontent.com/AlDWYg2QoMdS31WvDxqsE04sUYGkIF-pTg6gr71OhEDpF_PoCuQqkx-8YnqKiHY6PW1_X3QDIA"
-        },
-        "link": "https://www.ctee.com.tw/news/20250109701893-431203",
-        "thumbnail": "https://images.ctee.com.tw/newsphoto/2025-01-09/1024/20250109701939.jpg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iNkNnNXhVamd6ZGt0aE5uQmlUMk54VFJDNkFSaVBBaWdCTWc0QkVJZ1BvZU9nUklySm9iYklGZw",
-        "date": "01/09/2025, 08:00 AM, +0000 UTC"
-      },
-      {
-        "position": 7,
-        "title": "中原大學攜手台灣應用材料 合開課程培育先進半導體設備人才",
-        "source": {
-          "name": "Yahoo奇摩新聞",
-          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://tw.news.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://tw.news.yahoo.com/%E4%B8%AD%E5%8E%9F%E5%A4%A7%E5%AD%B8%E6%94%9C%E6%89%8B%E5%8F%B0%E7%81%A3%E6%87%89%E7%94%A8%E6%9D%90%E6%96%99-%E5%90%88%E9%96%8B%E8%AA%B2%E7%A8%8B%E5%9F%B9%E8%82%B2%E5%85%88%E9%80%B2%E5%8D%8A%E5%B0%8E%E9%AB%94%E8%A8%AD%E5%82%99%E4%BA%BA%E6%89%8D-051200843.html",
-        "thumbnail": "https://s.yimg.com/ny/api/res/1.2/Ltp5FRImhR2cJ0Af5Wq5vA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNw--/https://media.zenfs.com/ko/taiwanhot.net.tw/c37906b3ad7abf3208a5382a55b5f5a1",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJUMUJIY0Y5UVNtbFBiMEZhVFJDckF4aUFCU2dLTWdZQm9KQmpQQVk",
-        "date": "07/23/2024, 07:00 AM, +0000 UTC"
-      },
-      {
-        "position": 8,
-        "title": "2024 2024 青年IN生態 徵件活動",
-        "source": {
-          "name": "獎金獵人",
-          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://bhuntr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://bhuntr.com/tw/competitions/sb25sokfs0ptziaro8",
-        "thumbnail": "https://cdn.bountyhunter.co/file/ead81aa3-ed72-4505-869a-9d0b222f11ef.jpg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUZXVUU1U20xeWFrMUpWak4zVFJDeUF4akNCU2dLTWdrRk1KSldHQ2VSN0FF",
-        "date": "05/14/2024, 05:37 PM, +0000 UTC"
-      },
-      {
-        "position": 9,
-        "title": "AI領域出現新黑馬：「美商應用材料」股價飆升，台灣供應鏈之中，這家公司受惠最深",
-        "source": {
-          "name": "優分析",
-          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://uanalyze.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://uanalyze.com.tw/articles/851454623",
-        "thumbnail": "https://storage.uanalyze.com.tw/article/1/covers/20240216221743196.jpg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNUell4YWpJeU56WnVZbVp5VFJEQkF4aXJCU2dLTWdhcGtwUXZ0UVk",
-        "date": "02/16/2024, 08:00 AM, +0000 UTC"
-      },
-      {
-        "position": 10,
-        "title": "Micro LED大規模商用可期 應用材料從背板技術製造環節下手",
-        "source": {
-          "name": "DIGITIMES",
-          "icon": "https://lh3.googleusercontent.com/D11ydCd5h2VtxW8Pu2kabvp4A9fRKULzlRMp2dnifmipzeUSTbhUyAi7l14aBuLjGBn5KVm46Ik"
-        },
-        "link": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000691749_79J871KJ3XXU1KLT3QDUR",
-        "thumbnail": "https://img.digitimes.com/newsimg/2024/0509/691749-1-3qdur.jpg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhZeTB6ZWpGaFUzaE5jVTVYVFJDZkF4amlCU2dLTWdhdE5KSndIUWs",
-        "date": "05/09/2024, 07:00 AM, +0000 UTC"
-      },
-      {
-        "position": 11,
-        "title": "2024 女人迷 DEI 多元共融願景獎 - 初審入圍名單｜女人迷 Womany",
-        "source": {
-          "name": "女人迷 womany",
-          "icon": "https://lh3.googleusercontent.com/WE4nmGpdbR_83jBIloL-WzbAgl7sbfrJLHtkDTNI1LABOfokGg-YYRmp4HixlYlRoYP8s5HPNw"
-        },
-        "link": "https://womany.net/dei/awards/nominated",
-        "thumbnail": "https://womany.net/cdn-cgi/image/w=1534,fit=scale-down,f=auto/https://castle.womany.net/images/component_images/12532/e2cd9d9b028e9416b3893553c01e07b8.png",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9WMUpIYlZOTFlUTTFiVkJmVFJDZkF4ampCU2dLTWdhQnNZUmxRZ1E",
-        "date": "09/09/2024, 04:35 PM, +0000 UTC"
-      },
-      {
-        "position": 12,
-        "title": "應用材料財報、財測讚，盤後大漲1成再創歷史新高- 新聞",
-        "source": {
-          "name": "MoneyDJ理財網",
-          "icon": "https://lh3.googleusercontent.com/NefGUIPIE227AlA1ZNiddW6ujrDOoG74yMnjYKtKA9wHY5u6QSoWotkmsmMKB-UV63-xe5AJs4E"
-        },
-        "link": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=03a8cb9e-5b4a-4b1c-92da-8c88a5d36d8e",
-        "thumbnail": "https://www.moneydj.com/z/sjn/jpg/GetNewsRptjpg.djjpg?a=254127",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJSVXgyTWpKR1VsQkxTVkJoVFJDckFSaW1BaWdCTWdhVmtZcEt0Z1k",
-        "date": "02/16/2024, 08:00 AM, +0000 UTC"
-      },
-      {
-        "position": 13,
-        "title": "台灣應材總裁余定陸於中原大學分享創新之路- 商情",
-        "source": {
-          "name": "工商時報",
-          "icon": "https://lh3.googleusercontent.com/AlDWYg2QoMdS31WvDxqsE04sUYGkIF-pTg6gr71OhEDpF_PoCuQqkx-8YnqKiHY6PW1_X3QDIA"
-        },
-        "link": "https://www.ctee.com.tw/news/20240509701861-431204",
-        "thumbnail": "https://images.ctee.com.tw/newsphoto/2024-05-09/1024/20240509701864.jpg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNUxPRm81ZW5ZMmFqazFPV1ZPVFJDTkF4aURCaWdLTWdzQk1JNEdKYWJRSzRvTGl3",
-        "date": "05/09/2024, 07:00 AM, +0000 UTC"
-      },
-      {
-        "position": 14,
-        "title": "台灣應用材料、華苓科技榮獲國家人才發展獎 桃竹苗分署籲企業善用資源提升人力資本",
-        "source": {
-          "name": "視傳媒",
-          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://nvns.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://nvns.net/news_view.php?new_sn=47465",
-        "thumbnail": "https://uploads.posu.tw/73/738/img/S__8085559_Fotor.jpg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDJNMHhNYmxSMFVVNHphM1I0VFJEMUF4amtCQ2dLTWdrRkFZakVsT3M4TVFF",
-        "date": "12/12/2023, 08:00 AM, +0000 UTC"
-      },
-      {
-        "position": 15,
-        "title": "逆境茁壯的台灣精神 為全球半導體助攻",
-        "source": {
-          "name": "遠見雜誌",
-          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.gvm.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://www.gvm.com.tw/article/114689",
-        "thumbnail": "https://imgs.gvm.com.tw/upload/gallery/20240730/177580.jpg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJlWG81ZDBodVFYazFjMDUwVFJEUEF4aVdCU2dLTWdhZE5vaEpJZ2s",
-        "date": "07/31/2024, 07:00 AM, +0000 UTC"
-      },
-      {
-        "position": 16,
-        "title": "2024 多元共融願景獎結果出爐！ 僅 28.74% 人才對企業 DEI 表現滿意",
-        "source": {
-          "name": "中央社即時新聞",
-          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cna.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://www.cna.com.tw/postwrite/chi/385240",
-        "thumbnail": "https://imgcdn.cna.com.tw/www/postwrite/2024/20241025/00385238.20241025720960886M.jpg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1PWGhJTFMxeFFtdERkMVJwVFJERUF4aW5CU2dLTWdZSmM0NG51Z1U",
-        "date": "10/25/2024, 07:00 AM, +0000 UTC"
-      },
-      {
-        "position": 17,
-        "title": "應材全球第3座技術中心 落腳台灣",
-        "source": {
-          "name": "ETtoday財經雲",
-          "icon": "https://lh3.googleusercontent.com/RtaXVaC1Ok0le3n4daum4IqWYVzwP3ievzBhOfDqAEcl0zae8JaaZjQn8YMHriJiRVGXn4Nl7jw"
-        },
-        "link": "https://finance.ettoday.net/news/1295236",
-        "thumbnail": "https://cdn2.ettoday.net/images/3660/e3660990.jpg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJXVVZOVFdZMVozWnNNRTFxVFJERUF4aW1CU2dLTWdZSlZKTE5JUWs",
-        "date": "11/01/2018, 07:00 AM, +0000 UTC"
-      },
-      {
-        "position": 18,
-        "title": "展碁國際子公司博瑞達應材登錄興櫃",
-        "source": {
-          "name": "iThome Online",
-          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ithome.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://ithome.com.tw/pr/166334",
-        "thumbnail": "https://s4.itho.me/sites/default/files/styles/picture_size_large/public/960420_874.jpg?itok=FqDkoXxS",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5Rek5KVFVOVWNHWm1RVkZDVFJEdUFoakZCaWdLTWdZQm9KU2tQQWM",
-        "date": "12/05/2024, 08:00 AM, +0000 UTC"
-      },
-      {
-        "position": 19,
-        "title": "文藻鼓勵文科生跨域學習 邀女性科技主管暢談職涯",
-        "source": {
-          "name": "中央社即時新聞",
-          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cna.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://www.cna.com.tw/postwrite/chi/356746",
-        "thumbnail": "https://imgcdn.cna.com.tw/www/postwrite/2023/20231114/00356746.202311141057776904M.jpg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9WbFIwWm5KMllXTnhXVkZXVFJDeEF4akVCU2dLTWdhSk1aam1tUWs",
-        "date": "11/14/2023, 08:00 AM, +0000 UTC"
-      },
-      {
-        "position": 20,
-        "title": "應材成立第3座全球技術培訓中心 落腳竹科",
-        "source": {
-          "name": "大紀元",
-          "icon": "https://lh3.googleusercontent.com/JU_hZVS4S1e95CkiZWeCC7am-c2EBIfl87_Ehj_ESk46T6ZjXZTLyP96P1LYtroDU4x8Ltl06g"
-        },
-        "link": "https://www.epochtimes.com/b5/18/11/1/n10823496.htm",
-        "thumbnail": "https://www.epochtimes.com/assets/uploads/2018/11/f9c5eceabaab0598334920440f5916c4.jpg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURNeTF2VkRGMGJIb3lRVEpPVFJERUF4aW1CU2dLTWdZRlVKcWxJQWs",
-        "date": "11/01/2018, 07:00 AM, +0000 UTC"
-      },
-      {
-        "position": 21,
-        "title": "【個股動態】不知道它你就遜掉了! 半導體復甦浪潮，台灣供應鏈的投資機會?",
-        "source": {
-          "name": "優分析",
-          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://uanalyze.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://uanalyze.com.tw/articles/279824683",
-        "thumbnail": "https://storage.uanalyze.com.tw/article/1/covers/20240222193732184.jpg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBkbGxMWTNsR1RtWXRabXBNVFJDa0FSaTBBaWdCTWdZWjBvZ0xSUVE",
-        "date": "02/27/2024, 08:00 AM, +0000 UTC"
-      },
-      {
-        "position": 22,
-        "title": "台灣應材台中分公司落成啟用:台灣應用材料,Franz Janker",
-        "source": {
-          "name": "CTIMES",
-          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.ctimes.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://www.ctimes.com.tw/DispNews/tw/%E5%8F%B0%E7%81%A3%E6%87%89%E7%94%A8%E6%9D%90%E6%96%99/Franz-Janker/0511152009L2.shtml",
-        "thumbnail": "https://www.ctimes.com.tw/news/2005/11/15/2009346355.jpg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBXSFJZVUZOaGF6Um1RV3RGVFJESkFSaXNBaWdLTWdZQlVKYUVLZ2s",
-        "date": "10/16/2015, 01:00 PM, +0000 UTC"
-      },
-      {
-        "position": 23,
-        "title": "應用材料公司發表最新永續報告書呈報目標與最新進展- 商情",
-        "source": {
-          "name": "工商時報",
-          "icon": "https://lh3.googleusercontent.com/AlDWYg2QoMdS31WvDxqsE04sUYGkIF-pTg6gr71OhEDpF_PoCuQqkx-8YnqKiHY6PW1_X3QDIA",
-          "authors": [
-            "陳逸"
-          ]
-        },
-        "link": "https://www.ctee.com.tw/news/20230626700654-431202",
-        "thumbnail": "https://images.ctee.com.tw/newsphoto/2023-06-26/1024/20230626700655.jpg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtiVEJOU1VzemFFeFJZWEp4VFJDSEF4aVBCaWdLTWdhQkFxU2tEZ3c",
-        "date": "06/26/2023, 07:00 AM, +0000 UTC"
-      },
-      {
-        "position": 24,
-        "title": "巨茂應材響應淨零減碳 半導體展首度發表技術產品",
-        "source": {
-          "name": "Yahoo奇摩新聞",
-          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://tw.news.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://tw.news.yahoo.com/%E5%B7%A8%E8%8C%82%E6%87%89%E6%9D%90%E9%9F%BF%E6%87%89%E8%BF%91%E9%9B%B6%E6%B8%9B%E7%A2%B3-%E5%8D%8A%E5%B0%8E%E9%AB%94%E5%B1%95%E9%A6%96%E5%BA%A6%E7%99%BC%E8%A1%A8%E6%8A%80%E8%A1%93%E7%94%A2%E5%93%81-115905676.html",
-        "thumbnail": "https://s.yimg.com/ny/api/res/1.2/4HDOQnBu2qyfQBKXPg93CA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2MA--/https://media.zenfs.com/vi/newstaiwandigi_com_938/4a2d574606cb4d02b638b588e73ff567",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVUV2hVVWxJNFlXWnBSRWgwVFJEb0FoaUFCU2dLTWdhMU1vUVRtUWs",
-        "date": "08/23/2023, 07:00 AM, +0000 UTC"
-      },
-      {
-        "position": 25,
-        "title": "晶美應用材料股份有限公司",
-        "source": {
-          "name": "MoneyDJ理財網",
-          "icon": "https://lh3.googleusercontent.com/NefGUIPIE227AlA1ZNiddW6ujrDOoG74yMnjYKtKA9wHY5u6QSoWotkmsmMKB-UV63-xe5AJs4E"
-        },
-        "link": "https://www.moneydj.com/kmdj/wiki/wikiviewer.aspx?keyid=f2870f08-c3a9-4e6d-8194-7f893adf4cce",
-        "thumbnail": "https://www.moneydj.com/kmdj/GetWikiFile.axd?file=f2870f08-c3a9-4e6d-8194-7f893adf4cce/2015-07-24_181410.gif",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHhZVWhuUlRCM2RqaFpMVXBGVFJDZEF4aTZCQ2dLTWdtQkFZcnFsU1hKcFFJ",
-        "date": "11/24/2016, 08:00 AM, +0000 UTC"
-      },
-      {
-        "position": 26,
-        "title": "台灣應用材料祭出6萬旅遊補助、85折認股！還要如何與半導體廠爭人才？",
-        "source": {
-          "name": "數位時代",
-          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bnext.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://www.bnext.com.tw/article/62655/applied-materials-2021",
-        "thumbnail": "https://image-cdn.learnin.tw/bnextmedia/image/album/2021-05/img-1620119345-27725.jpg?w=900&output=webp",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUJSalJ0VEU5eFprcHlNM0pWVFJEZ0F4aUFCU2dLTWdrVlFwajBJQ21haHdJ",
-        "date": "05/04/2021, 07:00 AM, +0000 UTC"
-      },
-      {
-        "position": 27,
-        "title": "信立才傳收購普大應材 化工佈局大躍進 今卻被打入跌停 WHY?!",
-        "source": {
-          "name": "理財周刊",
-          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.moneyweekly.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://www.moneyweekly.com.tw/ArticleData/Info/Article/152223",
-        "thumbnail": "https://www.moneyweekly.com.tw/Photo/Article/0904.8.jpg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhVVTVJYUhCWlRqWTJkRk5KVFJEZ0F4aUFCU2dLTWdhcFZZYk5KUWc",
-        "date": "09/04/2024, 07:00 AM, +0000 UTC"
-      },
-      {
-        "position": 28,
-        "title": "台積電、和碩科技工程師面試心得大公開，前進竹科看這篇就夠！｜面試經驗分享面試經驗暨工作甘苦談",
-        "source": {
-          "name": "1111產經新聞網",
-          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.1111.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://www.1111.com.tw/1000w/fanshome/discussTopic.asp?cat=FANS&id=243231",
-        "thumbnail": "https://images.1111.com.tw/discussPic/26/50992126_179164323.93228.jpg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTJNMHRrY0dZdGVGaDFTME5vVFJDUkF4ajhCU2dLTWdNRm9oSQ",
-        "date": "04/23/2021, 07:00 AM, +0000 UTC"
-      },
-      {
-        "position": 29,
-        "title": "大南方最多元就業選擇 「2022南區就業博覽會」近萬人湧入成大",
-        "source": {
-          "name": "成功大學",
-          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://web.ncku.edu.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://web.ncku.edu.tw/p/16-1000-235662.php?Lang=zh-tw",
-        "thumbnail": "https://news-secr.ncku.edu.tw/var/file/37/1037/img/857/DSC01206.jpg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtNSFIxUWpWclVHeHBRa2haVFJERUF4aW1CU2dLTWdZQmtZem50UVk",
-        "date": "03/13/2022, 08:00 AM, +0000 UTC"
-      },
-      {
-        "position": 30,
-        "title": "應用材料公司發表十年永續藍圖的進展",
-        "source": {
-          "name": "企業經理人雜誌",
-          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cio.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://www.cio.com.tw/applied-materials-progress-progress-of-a-decade-of-sustainable-development/",
-        "thumbnail": "https://bunny-wp-pullzone-azrezydg5s.b-cdn.net/wp-content/uploads/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2-2022-07-05-091242.jpg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhhWEZFZDFaRVUyVlVSamxEVFJDZkF4ampCU2dLTWdZQlNKNkNJZ2s",
-        "date": "07/05/2022, 07:00 AM, +0000 UTC"
-      },
-      {
-        "position": 31,
-        "title": "台積公司DEI再升級，共創產業影響力",
-        "source": {
-          "name": "TSMC ESG",
-          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://esg.tsmc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://esg.tsmc.com/articles/339",
-        "thumbnail": "https://esg.tsmc.com/_next/image?url=%2Ffile%2Fpublic%2F%E5%9C%962_%E5%8F%B0%E7%A9%8D%E5%85%AC%E5%8F%B8%E6%94%9C%E6%89%8B%E4%BE%9B%E6%87%89%E5%95%86%E9%A6%96%E8%BE%A6%E5%BA%A7%E8%AB%87%E6%9C%83%E5%88%86%E4%BA%ABDEI%E6%8E%A8%E5%8B%95%E6%88%90%E6%9E%9C.jpg&w=3840&q=75",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNDBTRFJOTkVOYWJEUmtVWEZNVFJDckFoaUNDQ2dLTWdPQkFRSQ",
-        "date": "12/26/2024, 08:00 AM, +0000 UTC"
-      },
-      {
-        "position": 32,
-        "title": "阮氏水性耐候塗料提供建築與工業防鏽隔熱全面解決方案",
-        "source": {
-          "name": "經濟日報",
-          "icon": "https://lh3.googleusercontent.com/-lhlV_JcfWT1emtFz1nOds0S9SKyI_S4rw3gtY1kSkbvEPdiitujuBX8PpcrfMLOagRF1e6kxpQ"
-        },
-        "link": "https://money.udn.com/money/story/124067/8340834",
-        "thumbnail": "https://money.udn.com/SSI/ednvip/default_logo/logo_1280.png",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFkek5VY0VGcFowTjFZVE0zVFJEdkF4anJCQ2dLTWdZVm81UXB0UVk",
-        "date": "11/06/2024, 08:00 AM, +0000 UTC"
-      },
-      {
-        "position": 33,
-        "title": "新應材正式興櫃掛牌研發衝刺4大領域│產經新聞網",
-        "source": {
-          "name": "1111產經新聞網",
-          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.1111.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://www.1111.com.tw/news/jobns/144217",
-        "thumbnail": "https://images.1111.com.tw/11media/upload/1645437898.jpg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdZVXgzT1VrME0wRlJTR0paVFJDUUF4am9CQ2dLTWdZQlk0aU9xUVk",
-        "date": "02/22/2022, 08:00 AM, +0000 UTC"
-      },
-      {
-        "position": 34,
-        "title": "興大理學院舉辦產學博覽會 頒獎校友傑出成就獎",
-        "source": {
-          "name": "中央社即時新聞",
-          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cna.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://www.cna.com.tw/postwrite/chi/327571",
-        "thumbnail": "https://imgcdn.cna.com.tw/www/postwrite/2022/20221028/00327571.202210281009805927M.jpg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRja00xVEMxRWVGWldOek5OVFJERUF4aW5CU2dLTWdZQmdJSlJ0QVk",
-        "date": "10/28/2022, 07:00 AM, +0000 UTC"
-      },
-      {
-        "position": 35,
-        "title": "應材樂觀後市5檔供應鏈歡呼- 證券",
-        "source": {
-          "name": "工商時報",
-          "icon": "https://lh3.googleusercontent.com/AlDWYg2QoMdS31WvDxqsE04sUYGkIF-pTg6gr71OhEDpF_PoCuQqkx-8YnqKiHY6PW1_X3QDIA"
-        },
-        "link": "https://www.ctee.com.tw/news/20210522700041-430298",
-        "thumbnail": "https://images.ctee.com.tw/newsphoto/2021-05-22/1024/20210522700042.jpg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlibGxFVUVvdGJGcEdVRzUyVFJDZkFSaS1BaWdCTWdhaHdZQVJTUU0",
-        "date": "05/22/2021, 07:00 AM, +0000 UTC"
-      },
-      {
-        "position": 36,
-        "title": "深化學生環保意識 台灣應材「看見台灣之後」活動逾4萬師生參與 | 勁報 | LINE TODAY",
-        "source": {
-          "name": "LINE TODAY Taiwan",
-          "icon": "https://lh3.googleusercontent.com/rVRA5VXvaz_0wUnGL28Lrc2gRzeNVynE5PltZ1jZHfJemc4W6vi5jtNvCYLmvMHwXe-9jgx26g"
-        },
-        "link": "https://today.line.me/tw/v2/article/oBDGnq",
-        "thumbnail": "https://today-obs.line-scdn.net/0h5WVdvGb3anhrHXyQ7h0VL1FLaRdYcXl7Dys7eyhzNE9HJHonXn8jS0oZNU1HeS0mBSkhHE8ecUkTf35-AH4j/w580",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDRUMVJOUVV4aFYwZGliVk41VFJET0FoakVCQ2dLTWdB",
-        "date": "05/02/2021, 07:00 AM, +0000 UTC"
-      },
-      {
-        "position": 37,
-        "title": "加碼投資高雄20億 半導體大廠新應材二期南科動土 陳其邁：完整產業鏈生態系",
-        "source": {
-          "name": "Yahoo奇摩新聞",
-          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://tw.news.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://tw.news.yahoo.com/%E5%8A%A0%E7%A2%BC%E6%8A%95%E8%B3%87%E9%AB%98%E9%9B%8420%E5%84%84-%E5%8D%8A%E5%B0%8E%E9%AB%94%E5%A4%A7%E5%BB%A0%E6%96%B0%E6%87%89%E6%9D%90%E4%BA%8C%E6%9C%9F%E5%8D%97%E7%A7%91%E5%8B%95%E5%9C%9F-%E9%99%B3%E5%85%B6%E9%82%81-%E5%AE%8C%E6%95%B4%E7%94%A2%E6%A5%AD%E9%8F%88%E7%94%9F%E6%85%8B%E7%B3%BB-033612777.html",
-        "thumbnail": "https://s.yimg.com/ny/api/res/1.2/q.bPlEGKpoxQMnZSPHuaXA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2MA--/https://media.zenfs.com/ko/pinview_com_tw_506/2956515d04fe3ee0087c5f424765238b",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBSWHB0WTA0eFlXNW9Ua1ZrVFJEb0FoaUFCU2dLTWdhQk1ZaEluZ28",
-        "date": "07/10/2023, 07:00 AM, +0000 UTC"
-      },
-      {
-        "position": 38,
-        "title": "台積公司2023年供應鏈管理論壇頒發優良供應商獎項|台灣積體電路製造股份有限公司",
-        "source": {
-          "name": "TSMC Events",
-          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://pr.tsmc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://pr.tsmc.com/chinese/news/3086",
-        "date": "12/07/2023, 08:00 AM, +0000 UTC"
-      },
-      {
-        "position": 39,
-        "title": "美商應用材料PPACt新攻略 突圍半導體產業持續創新",
-        "source": {
-          "name": "CTIMES",
-          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.ctimes.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://www.ctimes.com.tw/DispNews/tw/2105041807Z8.shtml",
-        "thumbnail": "https://www.ctimes.com.tw/news/2021/05/04/1807247190.JPG",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXZMVmgyT1dsa2MwaExOVEl3VFJEU0F4aVNCU2dLTWdtTklKeW1raW9tWndJ",
-        "date": "05/04/2021, 07:00 AM, +0000 UTC"
-      },
-      {
-        "position": 40,
-        "title": "台積電獲利破兆！「優秀供應商」有這些 應材、ASML都入列",
-        "source": {
-          "name": "Yahoo奇摩新聞",
-          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://tw.news.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://tw.news.yahoo.com/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%B9%B4%E5%8E%BB%E5%B9%B4%E8%B3%BA4%E8%82%A1%E6%9C%AC-%E5%85%A8%E5%B9%B4%E7%8D%B2%E5%88%A9%E7%A0%B4%E5%85%86-%E5%8F%B2%E4%B8%8A%E6%9C%80%E9%AB%98-061906161.html",
-        "thumbnail": "https://s.yimg.com/ny/api/res/1.2/eKGuKfeNvkpA.LDxRXkC5Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2MA--/https://media.zenfs.com/ko/news_tvbs_com_tw_938/3f23ccf6f8aa86606656bdee941de420",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXNWMmw0YlZkaWVEVnhSMnh2VFJEb0FoaUFCU2dLTWdPSmRBUQ",
-        "date": "01/17/2023, 08:00 AM, +0000 UTC"
-      },
-      {
-        "position": 41,
-        "title": "沾台積電的光！台灣是設備進口大國，艾司摩爾與應材成最大受惠者",
-        "source": {
-          "name": "TechNews 科技新報 ",
-          "icon": "https://lh3.googleusercontent.com/RHumxzFIh7rvOu2-YsTwfd6guzUHZlP4_Vr4OuJqoN4ybvnpbnvGs1AfKX34WkEcJnYhH6up_A"
-        },
-        "link": "https://technews.tw/2020/11/29/taiwan-asml-applied-materials/",
-        "thumbnail": "https://img.technews.tw/wp-content/uploads/2020/11/26121137/ASML-768x457.jpg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRZVkp1WDBzMU9ITkRZVUpCVFJDckF4ak9CU2dLTWdZWlZJYU5wUWM",
-        "date": "11/29/2020, 08:00 AM, +0000 UTC"
-      },
-      {
-        "position": 42,
-        "title": "台積公司頒發2022年優良供應商卓越表現獎|台灣積體電路製造股份有限公司",
-        "source": {
-          "name": "TSMC Events",
-          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://pr.tsmc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://pr.tsmc.com/chinese/news/2995",
-        "date": "01/18/2023, 08:00 AM, +0000 UTC"
-      },
-      {
-        "position": 43,
-        "title": "應材讚後市5檔概念股沾光- 證券",
-        "source": {
-          "name": "工商時報",
-          "icon": "https://lh3.googleusercontent.com/AlDWYg2QoMdS31WvDxqsE04sUYGkIF-pTg6gr71OhEDpF_PoCuQqkx-8YnqKiHY6PW1_X3QDIA"
-        },
-        "link": "https://www.ctee.com.tw/news/20210222700038-430298",
-        "thumbnail": "https://images.ctee.com.tw/newsphoto/2021-02-22/1024/20210222700039.jpg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpaMU5KWWxCTmVYWlllREZLVFJDZkFSaS1BaWdCTWdaQkVvZ1VGUWs",
-        "date": "02/22/2021, 08:00 AM, +0000 UTC"
-      },
-      {
-        "position": 44,
-        "title": "應材發佈突破性圖案化技術 降低晶片製程成本",
-        "source": {
-          "name": "科技島",
-          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.technice.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://www.technice.com.tw/experience/enterprise/45832/",
-        "thumbnail": "https://www.technice.com.tw/wp-content/uploads/2023/04/%E6%87%89%E6%9D%90.jpg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJhMHAxTTJKbVpsWTFVMDR4VFJENkFSaTRBeWdLTWdZZEpJaU1tUVk",
-        "date": "04/11/2023, 07:00 AM, +0000 UTC"
-      },
-      {
-        "position": 45,
-        "title": "世界先進董事會拍板253億元買8吋與12吋廠設備",
-        "source": {
-          "name": "聯合新聞網",
-          "icon": "https://lh3.googleusercontent.com/iizTH9KVBLQVV368fDUKf2gt9aYhJ4-CPNOjymVTGSpY3YvtJQ4deeoKjK4olDSMHuNc1WcG"
-        },
-        "link": "https://udn.com/news/story/7241/8337422",
-        "thumbnail": "https://p.udn.com.tw/upf/2017_news/noimg_cid6644_1.jpg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXJiVGh1VFRFeFpWZ3dVekpTVFJDUUF4allCQ2dLTWdrQkVJckJOaVF1UmdJ",
-        "date": "11/04/2024, 08:00 AM, +0000 UTC"
-      },
-      {
-        "position": 46,
-        "title": "工研院與六大國際夥伴，共創2035未來趨勢，啟發新商機！",
-        "source": {
-          "name": "天下雜誌",
-          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cw.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://www.cw.com.tw/article/5127432",
-        "thumbnail": "https://cdn-www.cw.com.tw/article/202309/article-650ad1198660e.jpg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpNVzVJVlV0UU0xTkRWbVV5VFJERkF4aWxCU2dLTWdZUk00cHFJUW8",
-        "date": "09/26/2023, 07:00 AM, +0000 UTC"
-      },
-      {
-        "position": 47,
-        "title": "【園區公告】台灣創生 共伴計畫：文化倡議與實踐開始徵件",
-        "source": {
-          "name": "華山1914文化創意產業園區",
-          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.huashan1914.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://www.huashan1914.com/w/huashan1914/news_22082915170173012",
-        "thumbnail": "https://media.huashan1914.com/WebUPD/huashan1914/news/%E7%95%A2%E6%A5%AD%E5%AD%A3%E5%85%A5%E9%81%B8%E5%90%8D%E5%96%AE_1080x800_22112411142532150.jpg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJXbnB1UkVSdFJGUk9NSFY2VFJEZEF4aUVCU2dLTWdZRklwaG1HZ28",
-        "date": "08/29/2022, 07:00 AM, +0000 UTC"
-      },
-      {
-        "position": 48,
-        "title": "【藝文訊息】 2024年《共伴計畫：文化倡議與實踐》 徵件中！",
-        "source": {
-          "name": "華山1914文化創意產業園區",
-          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.huashan1914.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://www.huashan1914.com/w/huashan1914/news_23090510154324666",
-        "thumbnail": "https://media.huashan1914.com/WebUPD/huashan1914/news/2023%E8%8F%AF%E5%B1%B1%E5%85%B1%E4%BC%B4%E8%A8%88%E7%95%ABBN_230901_02%20%E5%AE%98%E7%B6%B2%E6%B4%BB%E5%8B%95%E4%BB%8B%E7%B4%B9_1920x1080.jpg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFXR1pZVVV0QlJra3phRzlUVFJDZkF4ampCU2dLTWdZTkpJeUhHZ2c",
-        "date": "09/05/2023, 07:00 AM, +0000 UTC"
-      },
-      {
-        "position": 49,
-        "title": "2024南區就業博覽會 逾萬人湧入成大 | 台灣好新聞 | LINE TODAY",
-        "source": {
-          "name": "LINE TODAY Taiwan",
-          "icon": "https://lh3.googleusercontent.com/rVRA5VXvaz_0wUnGL28Lrc2gRzeNVynE5PltZ1jZHfJemc4W6vi5jtNvCYLmvMHwXe-9jgx26g"
-        },
-        "link": "https://today.line.me/tw/v2/article/RB7Y0GW",
-        "thumbnail": "https://today-obs.line-scdn.net/0hrmZY9kcKLUJnID7I6BBSFV92ITNURjdLRRZiIkJ3diFJDGsUUxN-IUZzd24aEm0WR05gLUEhJCVPEmlHDw/w580",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNVdaRnBNUjNwRWVVczJTVVZ1VFJDREF4akVCQ2dLTWdzQk1JUWlLU1R3Q0NvdXNn",
-        "date": "03/10/2024, 08:00 AM, +0000 UTC"
-      },
-      {
-        "position": 50,
-        "title": "桃竹苗分署轄區 2 家企業榮獲國家人才發展獎 展現培育卓越人才提升人力資本雄厚實力",
-        "source": {
-          "name": "奧丁丁新聞 OwlNews",
-          "icon": "https://lh3.googleusercontent.com/vA4En2r-oUoT-9xaSD7gkbYu4m3Pio3QsCX3UrOPg3VJ0u_wbmVGgbLRKmmrCOfWCd_DaMZd"
-        },
-        "link": "https://news.owlting.com/articles/549623",
-        "thumbnail": "https://d1b8dyiuti31bx.cloudfront.net/NewsPhotos/20231212/20_070144641215.jpg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhjVXQwVW05SmRrb3RjRlJKVFJDNEFSaVNBaWdCTWdZQm9KQkJ1QVk",
-        "date": "12/11/2023, 08:00 AM, +0000 UTC"
-      },
-      {
-        "position": 51,
-        "title": "2023國家人才發展獎 十七家績優單位獲頒人力資源最高榮譽，打造臺灣成為人才永續寶島",
-        "source": {
-          "name": "今周刊-在今天看見明天",
-          "icon": "https://lh3.googleusercontent.com/gWqwPXXVtPGxbC1g1-Fc3ccw4_BgF9y2RWoAaEFSdqRMtZtBNIX-wX_dvwVC__EYZ8zXDnX9oA"
-        },
-        "link": "https://www.businesstoday.com.tw/article/category/183034/post/202312130087/",
-        "thumbnail": "https://doqvf81n9htmm.cloudfront.net/data/crop_article/153756/bhh1.jpg_1140x855.jpg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXhOWFZzYXpVNWJYUnVaMjFHVFJEZ0F4aUFCU2dLTWdrQmtKUjJPQ2U1RGdJ",
-        "date": "12/15/2023, 08:00 AM, +0000 UTC"
-      },
-      {
-        "position": 52,
-        "title": "高美館黃心健特展《X人稱》 文化平權展場設計打造友輪空間 | 新頭殼 | LINE TODAY",
-        "source": {
-          "name": "LINE TODAY Taiwan",
-          "icon": "https://lh3.googleusercontent.com/rVRA5VXvaz_0wUnGL28Lrc2gRzeNVynE5PltZ1jZHfJemc4W6vi5jtNvCYLmvMHwXe-9jgx26g"
-        },
-        "link": "https://today.line.me/tw/v2/article/Ya0BM3Q",
-        "thumbnail": "https://today-obs.line-scdn.net/0hcTIWuzKzPHt0LilrO_dDLEx4MApHSCZyVkx3H1EnZx5eAispHEFvGAMmYFcJFngvVE1xFVQnMUxYFn8rGg/w580",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxhbXRzVGxoaVMzbHRlWGx4VFJDekF4akVCQ2dLTWdhRjRZb0d6UVE",
-        "date": "11/18/2022, 08:00 AM, +0000 UTC"
-      },
-      {
-        "position": 53,
-        "title": "「共伴計畫：文化永續．創新實踐」計畫徵件！",
-        "source": {
-          "name": "華山1914文化創意產業園區",
-          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.huashan1914.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://www.huashan1914.com/w/huashan1914/exhibition_20100615491039881",
-        "thumbnail": "https://media.huashan1914.com/WebUPD/huashan1914/exhibition/2_20100718253446374.jpg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFiR0ZwVXkxWllYa3lRM2RhVFJDaEF4amdCU2dLTWdhRlVwYUhvZ2s",
-        "date": "10/06/2020, 07:00 AM, +0000 UTC"
-      },
-      {
-        "position": 54,
-        "title": "2024 2025【共伴計畫：倡議與實踐】 徵件",
-        "source": {
-          "name": "獎金獵人",
-          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://bhuntr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://bhuntr.com/tw/competitions/e6bltoyzn07cocfbsj",
-        "thumbnail": "https://cdn.bountyhunter.co/file/5cde3882-90ca-4749-ad77-29ad87b86cb1.png",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFkWFV5VFU0ME9XdGZPVEJIVFJDekF4akNCU2dLTWdhVlU1THJKUWc",
-        "date": "10/24/2024, 07:00 AM, +0000 UTC"
-      },
-      {
-        "position": 55,
-        "title": "台積電2022年優良供應商 台廠新應材、達欣工、帆宣等獲獎",
-        "source": {
-          "name": "Yahoo奇摩股市",
-          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://tw.stock.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB-2022-%E5%B9%B4%E5%84%AA%E8%89%AF%E4%BE%9B%E6%87%89%E5%95%86-%E5%8F%B0%E5%BB%A0%E6%96%B0%E6%87%89%E6%9D%90%E3%80%81%E9%81%94%E6%AC%A3%E5%B7%A5%E3%80%81%E5%B8%86%E5%AE%A3%E7%AD%89%E7%8D%B2%E7%8D%8E-063328009.html",
-        "thumbnail": "https://s.yimg.com/ny/api/res/1.2/GKoWmWNZOkxg47Rzhj38lw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNw--/https://s.yimg.com/os/creatr-uploaded-images/2023-01/1f448240-96f9-11ed-9a3d-ddab2a58461c",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFkbWxHV0haeVRVODNhRGN3VFJDckF4aUFCU2dLTWdhcGRKYXVyUWM",
-        "date": "01/18/2023, 08:00 AM, +0000 UTC"
-      },
-      {
-        "position": 56,
-        "title": "「文化議題的公共倡議」",
-        "source": {
-          "name": "華山1914文化創意產業園區",
-          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.huashan1914.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://www.huashan1914.com/w/huashan1914/exhibition_21080416451956578",
-        "thumbnail": "https://media.huashan1914.com/WebUPD/huashan1914/exhibition/%E8%B7%A8%E5%9F%9F%E5%BD%B1%E9%9F%BF%E5%8A%9B%E8%AB%96%E5%A3%87banner.jpg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUxWazgwUlhnNE9XeHpRVnAyVFJDR0F4aVRCaWdLTWdNcGNRNA",
-        "date": "08/05/2021, 07:00 AM, +0000 UTC"
-      },
-      {
-        "position": 57,
-        "title": "台積電去年供應商卓越表現獎出爐 台廠3家入列",
-        "source": {
-          "name": "自由財經",
-          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ec.ltn.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://ec.ltn.com.tw/article/breakingnews/4188828",
-        "thumbnail": "https://img.ltn.com.tw/Upload/business/page/800/2023/01/18/phpM8Aa0s.jpg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJValpEV0RGVFZHNTVSRm80VFJEZkF4aUFCU2dLTWdZSmdveXNNUWM",
-        "date": "01/18/2023, 08:00 AM, +0000 UTC"
-      },
-      {
-        "position": 58,
-        "title": "【新聞稿】全臺15文化園區齊聚華山，捲動臺灣文創生態網絡- 烏梅劇院",
-        "source": {
-          "name": "華山1914文化創意產業園區",
-          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.huashan1914.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://www.huashan1914.com/w/umaytheater/news_20122409470202154",
-        "thumbnail": "https://media.huashan1914.com/WebUPD/umaytheater/news/%EF%BC%88%E5%9C%96%E8%AA%AA1%EF%BC%89%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E8%97%9D%E8%A1%93%E5%A4%A7%E5%AD%B8%20%E8%97%9D%E8%A1%93%E7%AE%A1%E7%90%86%E8%88%87%E6%96%87%E5%8C%96%E6%94%BF%E7%AD%96%E7%A0%94%E7%A9%B6%E6%89%80%20%E5%8A%89%E4%BF%8A%E8%A3%95%E6%95%99%E6%8E%88%E4%B8%BB%E6%8C%81%E6%9C%83%E8%AD%B0_20122409542299853.jpg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBTM0JIT0c5WGQxZGZWalZJVFJERUF4aW1CU2dLTWdhaGc0Z0xzZ1k",
-        "date": "12/21/2020, 08:00 AM, +0000 UTC"
-      },
-      {
-        "position": 59,
-        "title": "疫情衝擊教學更艱困偏鄉教育捐款銳減六成歲末年終博幼基金會偏鄉學童急需外界支持渡教學寒冬",
-        "source": {
-          "name": "中央社即時新聞",
-          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cna.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://www.cna.com.tw/postwrite/chi/308372",
-        "thumbnail": "https://imgcdn.cna.com.tw/www/postwrite/2022/20220113/00308372.202201132122779700M.jpg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVVZVEZuYW10NmFrSkZkR3RwVFJEZkF4aUFCU2dLTWdtQlVJZ0NMLWMwU0FJ",
-        "date": "01/13/2022, 08:00 AM, +0000 UTC"
-      },
-      {
-        "position": 60,
-        "title": "應材全球裁減1700名員工:裁員,應用材料公司",
-        "source": {
-          "name": "CTIMES",
-          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.ctimes.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://www.ctimes.com.tw/DispNews/tw/%E8%A3%81%E5%93%A1/%E6%87%89%E7%94%A8%E6%9D%90%E6%96%99%E5%85%AC%E5%8F%B8/01121418331V.shtml",
-        "date": "07/14/2018, 04:39 AM, +0000 UTC"
-      },
-      {
-        "position": 61,
-        "title": "台灣應材新組織團隊正式亮相:應用材料,半導體製造與測試",
-        "source": {
-          "name": "CTIMES",
-          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.ctimes.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://www.ctimes.com.tw/DispNews/tw/%E6%87%89%E7%94%A8%E6%9D%90%E6%96%99/%E5%8D%8A%E5%B0%8E%E9%AB%94%E8%A3%BD%E9%80%A0%E8%88%87%E6%B8%AC%E8%A9%A6/0311081303SU.shtml",
-        "date": "01/18/2017, 04:14 AM, +0000 UTC"
-      },
-      {
-        "position": 62,
-        "title": "紀錄片《看見台灣》徵文比賽 義民高中、竹東高中學生獲獎",
-        "source": {
-          "name": "新竹縣政府",
-          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.hsinchu.gov.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://www.hsinchu.gov.tw/News_Content.aspx?n=139&s=98773",
-        "thumbnail": "https://ws.hsinchu.gov.tw/001/Upload/1/RelPic/8603/98773/%E7%9C%8B%E8%A6%8B%E5%8F%B0%E7%81%A3%E4%B9%8B%E5%BE%8C%E5%B0%8D%E5%9C%9F%E5%9C%B0%E7%9A%84%E6%89%BF%E8%AB%BE%EF%BC%8C%E5%AD%B8%E7%94%9F%E5%8F%8D%E6%87%89%E7%86%B1%E7%B5%A1%E3%80%82@710x470.jpg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhTVUpDTW5GYVJWWTRNMW93VFJDc0FSaW1BaWdCTWdZSkFKYmtIZ2s",
-        "date": "07/31/2018, 04:32 AM, +0000 UTC"
-      },
-      {
-        "position": 63,
-        "title": "應材台南顯示器設備製造中心與研發實驗室開幕- 產業",
-        "source": {
-          "name": "工商時報",
-          "icon": "https://lh3.googleusercontent.com/AlDWYg2QoMdS31WvDxqsE04sUYGkIF-pTg6gr71OhEDpF_PoCuQqkx-8YnqKiHY6PW1_X3QDIA"
-        },
-        "link": "https://www.ctee.com.tw/news/20190605700654-430502",
-        "thumbnail": "https://images.ctee.com.tw/newsphoto/2019-06-05/1024/20190605700655.jpg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBhakJhUVVsWE1WQlRRMkZ4VFJEbUFoalpCaWdLTWdZQmtJcFFRUVk",
-        "date": "06/05/2019, 07:00 AM, +0000 UTC"
-      },
-      {
-        "position": 64,
-        "title": "創新公司攜手應材創投首度在台舉辦新創競賽- 財經 - 工商",
-        "source": {
-          "name": "中時新聞網",
-          "icon": "https://lh3.googleusercontent.com/rFkf-wc9xUgfS7qU1NI946heXKrONJRvx4Re9wa5BtGbz1yTjZyo02Mtsn68QJXwwFq7EuHa"
-        },
-        "link": "https://www.chinatimes.com/realtimenews/20191119002649-260410",
-        "thumbnail": "https://images.chinatimes.com/newsphoto/2019-11-19/656/20191119002650.jpg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZhWFp4Wm5ORFkwcEdNMEpzVFJDakF4aVFCU2dLTWdhQlVKYkRwQWc",
-        "date": "11/19/2019, 08:00 AM, +0000 UTC"
-      },
-      {
-        "position": 65,
-        "title": "【金貿新焦點 會展齊脈動】經濟部頒發金貿獎、臺灣會展獎予15家出口績優企業及8項會展活動主辦單位",
-        "source": {
-          "name": "經貿透視",
-          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.trademag.org.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://www.trademag.org.tw/page/newsid1/?id=771482&iz=1",
-        "thumbnail": "https://www.trademag.org.tw/Upload/tam_tam/771482/2.JPG",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURkSEJMVkV4WmJqbGpXVU5rVFJERUF4aW1CU2dLTWdZQlVJcUZRQVE",
-        "date": "09/07/2020, 07:00 AM, +0000 UTC"
-      },
-      {
-        "position": 66,
-        "title": "台積公司舉辦「供應鏈管理論壇」表揚優良供應商",
-        "source": {
-          "name": "TSMC ESG",
-          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://esg.tsmc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://esg.tsmc.com/ch/update/responsibleSupplyChain/caseStudy/5/index.html",
-        "thumbnail": "https://esg.tsmc.com/ch/update/responsibleSupplyChain/caseStudy/5/banner_01.jpg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpSamRGY0hOc2JUbExlRWxOVFJEM0FoaXlCaWdLTWdZQkVKQnRrUXM",
-        "date": "12/07/2017, 08:00 AM, +0000 UTC"
-      },
-      {
-        "position": 67,
-        "title": "2023 2024年【共伴計畫：文化倡議與實踐】 徵件中！",
-        "source": {
-          "name": "獎金獵人",
-          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://bhuntr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://bhuntr.com/tw/competitions/duss866e1f476ckxme",
-        "thumbnail": "https://cdn.bountyhunter.co/file/f3073d3f-0424-440b-b56f-b05a549c3594.jpg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVphRmR1VXkxbVVIQlZVMGN4VFJDekF4akJCU2dLTWdtQk5JeWxudVdhSndJ",
-        "date": "09/04/2023, 07:00 AM, +0000 UTC"
-      },
-      {
-        "position": 68,
-        "title": "應用材料公司最新電子束量測系統提升高數值孔徑極紫外光微影製程的控制與良率",
-        "source": {
-          "name": "蕃新聞",
-          "icon": "https://lh3.googleusercontent.com/qJ5EJZ0FX02H2ryjFoe0W3BxE7CYH6L4yHj6QAgPbrDxAUVwP56bo0roMKlg3rnOJR8ks_U5"
-        },
-        "link": "https://n.yam.com/Article/20230308320700",
-        "thumbnail": "https://news.taiwannet.com.tw/images/user_uploaded/89514_681b8631d3b0440e90868607b72177bf.png",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtVRVJzTW00NU9XYzRSVGhzVFJDZkF4ampCU2dLTWdhZFJKRExyUVk",
-        "date": "03/08/2023, 08:00 AM, +0000 UTC"
-      },
-      {
-        "position": 69,
-        "title": "應用材料公司的突破性電子束成像技術加速世界最先進電腦晶片的開發",
-        "source": {
-          "name": "蕃新聞",
-          "icon": "https://lh3.googleusercontent.com/qJ5EJZ0FX02H2ryjFoe0W3BxE7CYH6L4yHj6QAgPbrDxAUVwP56bo0roMKlg3rnOJR8ks_U5"
-        },
-        "link": "https://n.yam.com/Article/20221219525430",
-        "thumbnail": "https://news.taiwannet.com.tw/images/user_uploaded/85351_6c7a9e22f026414faa4f08a60d79be3e.jpg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW1RM2sxYjI5YWRsVm5kMUUzVFJDbkF4alZCU2dLTWdrTkVJUXBrcWd0U0FJ",
-        "date": "12/19/2022, 08:00 AM, +0000 UTC"
-      },
-      {
-        "position": 70,
-        "title": "福大材料涉詐貸4億 董事長楊燈霖被起訴",
-        "source": {
-          "name": "自由時報",
-          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://news.ltn.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://news.ltn.com.tw/news/society/breakingnews/3018498",
-        "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2019/12/24/php5a5D6e.jpg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhUVWhwZERodmJ6WlRlVzlqVFJEUkFoallCQ2dLTWdhSlFweFJIUWs",
-        "date": "12/24/2019, 08:00 AM, +0000 UTC"
-      },
-      {
-        "position": 71,
-        "title": "台積電認證 點名15家優良供應商",
-        "source": {
-          "name": "天下雜誌",
-          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cw.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://www.cw.com.tw/article/5103034",
-        "thumbnail": "https://cdn-www.cw.com.tw/article/202012/article-5fc9ac86d7d3a.jpg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9NVEZ1TmxSTGFYVXRhRzlmVFJERkF4aWxCU2dLTWdZQmdJQU1TZ1U",
-        "date": "12/04/2020, 08:00 AM, +0000 UTC"
-      },
-      {
-        "position": 72,
-        "title": "2024南區就業博覽會 逾萬人湧入成大",
-        "source": {
-          "name": "Yahoo奇摩新聞",
-          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://tw.news.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://tw.news.yahoo.com/2024%E5%8D%97%E5%8D%80%E5%B0%B1%E6%A5%AD%E5%8D%9A%E8%A6%BD%E6%9C%83-%E9%80%BE%E8%90%AC%E4%BA%BA%E6%B9%A7%E5%85%A5%E6%88%90%E5%A4%A7-094530217.html",
-        "thumbnail": "https://s.yimg.com/ny/api/res/1.2/4qB3qBwAp.a.b.pYLHobzg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNw--/https://media.zenfs.com/ko/taiwanhot.net.tw/a1e8511b650576bb7842a410f42584e6",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNTJTRXBLWDA5RWJqUlZjakZKVFJDckF4aUFCU2dLTWdzQk1JWmlxV1ZMRlRrd3Nn",
-        "date": "03/10/2024, 08:00 AM, +0000 UTC"
-      },
-      {
-        "position": 73,
-        "title": "台積電今頒發20家優良供應商獎 帆宣、和淞等台廠入榜",
-        "source": {
-          "name": "自由財經",
-          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ec.ltn.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://ec.ltn.com.tw/article/breakingnews/4514120",
-        "thumbnail": "https://img.ltn.com.tw/Upload/business/page/800/2023/12/07/4514120_1.jpg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXdhbVZMWDBaS056Sk9ZVzVhVFJDckF4ak5CU2dLTWdrQmdJakd2T1JpTFFJ",
-        "date": "12/07/2023, 08:00 AM, +0000 UTC"
-      },
-      {
-        "position": 74,
-        "title": "國際新媒體藝術大師黃心健 亞洲首次大型回顧展《Ｘ人稱》 響應台灣設計展 高美館重磅登場",
-        "source": {
-          "name": "非池中藝術網",
-          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://artemperor.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://artemperor.tw/focus/5087",
-        "thumbnail": "https://d3d9mb8xdsbq52.cloudfront.net/s3/221017/175428omf.jpg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNjMUJzYjJWUGNIWlllRlYwVFJEREF4aW9CU2dLTWdZQmtKSWtOZ2M",
-        "date": "10/17/2022, 07:00 AM, +0000 UTC"
-      },
-      {
-        "position": 75,
-        "title": "共伴計畫跨域影響力系列論壇8月起登場 盼透過大眾參與強化文化韌性",
-        "source": {
-          "name": "Yahoo奇摩新聞",
-          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://tw.news.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://tw.news.yahoo.com/%E5%85%B1%E4%BC%B4%E8%A8%88%E7%95%AB%E8%B7%A8%E5%9F%9F%E5%BD%B1%E9%9F%BF%E5%8A%9B%E7%B3%BB%E5%88%97%E8%AB%96%E5%A3%878%E6%9C%88%E8%B5%B7%E7%99%BB%E5%A0%B4-%E7%9B%BC%E9%80%8F%E9%81%8E%E5%A4%A7%E7%9C%BE%E5%8F%83%E8%88%87%E5%BC%B7%E5%8C%96%E6%96%87%E5%8C%96%E9%9F%8C%E6%80%A7-092339843.html",
-        "thumbnail": "https://s.yimg.com/ny/api/res/1.2/1UdfsGZslKqzDOziAgX3WQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTg5MQ--/https://media.zenfs.com/ko/ner.gov.tw/60302e06d0901b10d4969e4b88d358a2",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWplbVJ4V1ZCM1ExSjVWMnBqVFJDTkJSalZBeWdLTWdZWk5JYk50UVk",
-        "date": "08/17/2021, 07:00 AM, +0000 UTC"
-      },
-      {
-        "position": 76,
-        "title": "京東方訂購應用材料公司設備，加速大尺寸液晶顯示電視的生產",
-        "source": {
-          "name": "TechNews 科技新報 ",
-          "icon": "https://lh3.googleusercontent.com/RHumxzFIh7rvOu2-YsTwfd6guzUHZlP4_Vr4OuJqoN4ybvnpbnvGs1AfKX34WkEcJnYhH6up_A"
-        },
-        "link": "https://technews.tw/2016/11/21/boe-applied-materials/",
-        "thumbnail": "https://img.technews.tw/wp-content/uploads/2015/12/boe.jpeg",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBiVWcwVUhaR1JqaFFha00wVFJETUF4aWFCU2dLTWdhQlVKUlF0UVk",
-        "date": "11/21/2016, 08:00 AM, +0000 UTC"
-      },
-      {
-        "position": 77,
-        "title": "2017台灣10大專利申請王 台積電續稱霸 遠東科大學校組稱王",
-        "source": {
-          "name": "Yahoo奇摩新聞",
-          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://tw.news.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://tw.news.yahoo.com/2017%E5%8F%B0%E7%81%A310%E5%A4%A7%E5%B0%88%E5%88%A9%E7%94%B3%E8%AB%8B%E7%8E%8B-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E7%BA%8C%E7%A8%B1%E9%9C%B8-%E9%81%A0%E6%9D%B1%E7%A7%91%E5%A4%A7%E5%AD%B8%E6%A0%A1%E7%B5%84%E7%A8%B1%E7%8E%8B-071250368.html",
-        "thumbnail": "https://s.yimg.com/ny/api/res/1.2/bS1Zg3Ku.7XY7geutNY_gg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQzMA--/https://media.zenfs.com/zh-Hant-TW/homerun/taiwanhot.net.tw/88f1e69395ade54df875205ce61c9d48",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUdjVWRVY1hGYVlXeHdhVEI1VFJDdUF4al9CQ2dLTWdNWnNBQQ",
-        "date": "02/05/2018, 08:00 AM, +0000 UTC"
-      },
-      {
-        "position": 78,
-        "title": "未足額進用身障勞工 林口長庚再度蟬聯第一",
-        "source": {
-          "name": "自由時報",
-          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://news.ltn.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-        },
-        "link": "https://news.ltn.com.tw/news/life/breakingnews/1893335",
-        "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2016/11/21/phpdC5wm8.png",
-        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFlVnBLUWtrMGNIUTNRMWQxVFJDSEF4allCQ2dLTWdZQm9JNjBQQVk",
-        "date": "11/21/2016, 08:00 AM, +0000 UTC"
-      }
-    ],
-    "menu_links": [
-      {
-        "title": "台灣",
-        "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRFptTXpJU0JYcG9MVlJYS0FBUAE",
-        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=tw&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRFptTXpJU0JYcG9MVlJYS0FBUAE"
-      },
-      {
-        "title": "國際",
-        "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JYcG9MVlJYR2dKVVZ5Z0FQAQ",
-        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=tw&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JYcG9MVlJYR2dKVVZ5Z0FQAQ"
-      },
-      {
-        "title": "地方新聞",
-        "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
-        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=tw&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
-      },
-      {
-        "title": "商業",
-        "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JYcG9MVlJYR2dKVVZ5Z0FQAQ",
-        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=tw&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JYcG9MVlJYR2dKVVZ5Z0FQAQ"
-      },
-      {
-        "title": "科學與科技",
-        "topic_token": "CAAqLAgKIiZDQkFTRmdvSkwyMHZNR1ptZHpWbUVnVjZhQzFVVnhvQ1ZGY29BQVAB",
-        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=tw&topic_token=CAAqLAgKIiZDQkFTRmdvSkwyMHZNR1ptZHpWbUVnVjZhQzFVVnhvQ1ZGY29BQVAB"
-      },
-      {
-        "title": "娛樂",
-        "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JYcG9MVlJYR2dKVVZ5Z0FQAQ",
-        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=tw&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JYcG9MVlJYR2dKVVZ5Z0FQAQ"
-      },
-      {
-        "title": "體育",
-        "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JYcG9MVlJYR2dKVVZ5Z0FQAQ",
-        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=tw&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JYcG9MVlJYR2dKVVZ5Z0FQAQ"
-      },
-      {
-        "title": "健康",
-        "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JYcG9MVlJYS0FBUAE",
-        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=tw&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JYcG9MVlJYS0FBUAE"
-      }
-    ]
-  }
+    {
+      "position": 3,
+      "title": "新應材跨足半導體有成，今年賺近一個股本！最大功臣是「他」",
+      "source": {
+        "name": "TechNews 科技新報",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.technews.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "今周刊"
+        ]
+      },
+      "link": "https://finance.technews.tw/2024/11/30/story-of-aemc/",
+      "thumbnail": "https://img.technews.tw/wp-content/uploads/2022/01/04162412/shutterstock_783284701-768x512.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRlR0phUWkxSldGWm5hak5FVFJERUF4aW1CU2dLTWdZQk01Q3JKUWM",
+      "date": "11/30/2024, 08:00 AM, +0000 UTC"
+    },
+    {
+      "position": 4,
+      "title": "[台灣應材放大絕召募理工女僑生與外籍生]",
+      "source": {
+        "name": "1111產經新聞網",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.1111.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.1111.com.tw/news/jobns/155430",
+      "thumbnail": "https://images.1111.com.tw/11media/upload/1710927487.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJiVWx5VlcwMFJqWkJkWFZRVFJDUUF4aVlCQ2dLTWdZQmNaQW5OUVk",
+      "date": "03/20/2024, 07:00 AM, +0000 UTC"
+    },
+    {
+      "position": 5,
+      "title": "維也納啤酒節拉開序幕 美酒佳餚加美景 跟著音樂微醺搖擺",
+      "source": {
+        "name": "台南旅遊網",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.twtainan.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.twtainan.net/zh-tw/event/newsdetail/5279/",
+      "thumbnail": "https://www.twtainan.net/content/images/articles/93789/1024x768_articles-image-1vul-01n1km-ksosmhbzqg.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNkbWxCU1Y4NVJGOVRZVVoyVFJDM0FSaVRBaWdCTWdZQmdJb2hTd1U",
+      "date": "01/24/2025, 10:15 PM, +0000 UTC"
+    },
+    {
+      "position": 6,
+      "title": "PBA碧綠威打入應材EPIC先進封裝技術平台- 商情",
+      "source": {
+        "name": "工商時報",
+        "icon": "https://lh3.googleusercontent.com/AlDWYg2QoMdS31WvDxqsE04sUYGkIF-pTg6gr71OhEDpF_PoCuQqkx-8YnqKiHY6PW1_X3QDIA"
+      },
+      "link": "https://www.ctee.com.tw/news/20250109701893-431203",
+      "thumbnail": "https://images.ctee.com.tw/newsphoto/2025-01-09/1024/20250109701939.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iNkNnNXhVamd6ZGt0aE5uQmlUMk54VFJDNkFSaVBBaWdCTWc0QkVJZ1BvZU9nUklySm9iYklGZw",
+      "date": "01/09/2025, 08:00 AM, +0000 UTC"
+    },
+    {
+      "position": 7,
+      "title": "中原大學攜手台灣應用材料 合開課程培育先進半導體設備人才",
+      "source": {
+        "name": "Yahoo奇摩新聞",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://tw.news.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://tw.news.yahoo.com/%E4%B8%AD%E5%8E%9F%E5%A4%A7%E5%AD%B8%E6%94%9C%E6%89%8B%E5%8F%B0%E7%81%A3%E6%87%89%E7%94%A8%E6%9D%90%E6%96%99-%E5%90%88%E9%96%8B%E8%AA%B2%E7%A8%8B%E5%9F%B9%E8%82%B2%E5%85%88%E9%80%B2%E5%8D%8A%E5%B0%8E%E9%AB%94%E8%A8%AD%E5%82%99%E4%BA%BA%E6%89%8D-051200843.html",
+      "thumbnail": "https://s.yimg.com/ny/api/res/1.2/Ltp5FRImhR2cJ0Af5Wq5vA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNw--/https://media.zenfs.com/ko/taiwanhot.net.tw/c37906b3ad7abf3208a5382a55b5f5a1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJUMUJIY0Y5UVNtbFBiMEZhVFJDckF4aUFCU2dLTWdZQm9KQmpQQVk",
+      "date": "07/23/2024, 07:00 AM, +0000 UTC"
+    },
+    {
+      "position": 8,
+      "title": "2024 2024 青年IN生態 徵件活動",
+      "source": {
+        "name": "獎金獵人",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://bhuntr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://bhuntr.com/tw/competitions/sb25sokfs0ptziaro8",
+      "thumbnail": "https://cdn.bountyhunter.co/file/ead81aa3-ed72-4505-869a-9d0b222f11ef.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUZXVUU1U20xeWFrMUpWak4zVFJDeUF4akNCU2dLTWdrRk1KSldHQ2VSN0FF",
+      "date": "05/14/2024, 05:37 PM, +0000 UTC"
+    },
+    {
+      "position": 9,
+      "title": "AI領域出現新黑馬：「美商應用材料」股價飆升，台灣供應鏈之中，這家公司受惠最深",
+      "source": {
+        "name": "優分析",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://uanalyze.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://uanalyze.com.tw/articles/851454623",
+      "thumbnail": "https://storage.uanalyze.com.tw/article/1/covers/20240216221743196.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNUell4YWpJeU56WnVZbVp5VFJEQkF4aXJCU2dLTWdhcGtwUXZ0UVk",
+      "date": "02/16/2024, 08:00 AM, +0000 UTC"
+    },
+    {
+      "position": 10,
+      "title": "Micro LED大規模商用可期 應用材料從背板技術製造環節下手",
+      "source": {
+        "name": "DIGITIMES",
+        "icon": "https://lh3.googleusercontent.com/D11ydCd5h2VtxW8Pu2kabvp4A9fRKULzlRMp2dnifmipzeUSTbhUyAi7l14aBuLjGBn5KVm46Ik"
+      },
+      "link": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000691749_79J871KJ3XXU1KLT3QDUR",
+      "thumbnail": "https://img.digitimes.com/newsimg/2024/0509/691749-1-3qdur.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhZeTB6ZWpGaFUzaE5jVTVYVFJDZkF4amlCU2dLTWdhdE5KSndIUWs",
+      "date": "05/09/2024, 07:00 AM, +0000 UTC"
+    },
+    {
+      "position": 11,
+      "title": "2024 女人迷 DEI 多元共融願景獎 - 初審入圍名單｜女人迷 Womany",
+      "source": {
+        "name": "女人迷 womany",
+        "icon": "https://lh3.googleusercontent.com/WE4nmGpdbR_83jBIloL-WzbAgl7sbfrJLHtkDTNI1LABOfokGg-YYRmp4HixlYlRoYP8s5HPNw"
+      },
+      "link": "https://womany.net/dei/awards/nominated",
+      "thumbnail": "https://womany.net/cdn-cgi/image/w=1534,fit=scale-down,f=auto/https://castle.womany.net/images/component_images/12532/e2cd9d9b028e9416b3893553c01e07b8.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9WMUpIYlZOTFlUTTFiVkJmVFJDZkF4ampCU2dLTWdhQnNZUmxRZ1E",
+      "date": "09/09/2024, 04:35 PM, +0000 UTC"
+    },
+    {
+      "position": 12,
+      "title": "應用材料財報、財測讚，盤後大漲1成再創歷史新高- 新聞",
+      "source": {
+        "name": "MoneyDJ理財網",
+        "icon": "https://lh3.googleusercontent.com/NefGUIPIE227AlA1ZNiddW6ujrDOoG74yMnjYKtKA9wHY5u6QSoWotkmsmMKB-UV63-xe5AJs4E"
+      },
+      "link": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=03a8cb9e-5b4a-4b1c-92da-8c88a5d36d8e",
+      "thumbnail": "https://www.moneydj.com/z/sjn/jpg/GetNewsRptjpg.djjpg?a=254127",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJSVXgyTWpKR1VsQkxTVkJoVFJDckFSaW1BaWdCTWdhVmtZcEt0Z1k",
+      "date": "02/16/2024, 08:00 AM, +0000 UTC"
+    },
+    {
+      "position": 13,
+      "title": "台灣應材總裁余定陸於中原大學分享創新之路- 商情",
+      "source": {
+        "name": "工商時報",
+        "icon": "https://lh3.googleusercontent.com/AlDWYg2QoMdS31WvDxqsE04sUYGkIF-pTg6gr71OhEDpF_PoCuQqkx-8YnqKiHY6PW1_X3QDIA"
+      },
+      "link": "https://www.ctee.com.tw/news/20240509701861-431204",
+      "thumbnail": "https://images.ctee.com.tw/newsphoto/2024-05-09/1024/20240509701864.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNUxPRm81ZW5ZMmFqazFPV1ZPVFJDTkF4aURCaWdLTWdzQk1JNEdKYWJRSzRvTGl3",
+      "date": "05/09/2024, 07:00 AM, +0000 UTC"
+    },
+    {
+      "position": 14,
+      "title": "台灣應用材料、華苓科技榮獲國家人才發展獎 桃竹苗分署籲企業善用資源提升人力資本",
+      "source": {
+        "name": "視傳媒",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://nvns.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://nvns.net/news_view.php?new_sn=47465",
+      "thumbnail": "https://uploads.posu.tw/73/738/img/S__8085559_Fotor.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDJNMHhNYmxSMFVVNHphM1I0VFJEMUF4amtCQ2dLTWdrRkFZakVsT3M4TVFF",
+      "date": "12/12/2023, 08:00 AM, +0000 UTC"
+    },
+    {
+      "position": 15,
+      "title": "逆境茁壯的台灣精神 為全球半導體助攻",
+      "source": {
+        "name": "遠見雜誌",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.gvm.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.gvm.com.tw/article/114689",
+      "thumbnail": "https://imgs.gvm.com.tw/upload/gallery/20240730/177580.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJlWG81ZDBodVFYazFjMDUwVFJEUEF4aVdCU2dLTWdhZE5vaEpJZ2s",
+      "date": "07/31/2024, 07:00 AM, +0000 UTC"
+    },
+    {
+      "position": 16,
+      "title": "2024 多元共融願景獎結果出爐！ 僅 28.74% 人才對企業 DEI 表現滿意",
+      "source": {
+        "name": "中央社即時新聞",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cna.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.cna.com.tw/postwrite/chi/385240",
+      "thumbnail": "https://imgcdn.cna.com.tw/www/postwrite/2024/20241025/00385238.20241025720960886M.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1PWGhJTFMxeFFtdERkMVJwVFJERUF4aW5CU2dLTWdZSmM0NG51Z1U",
+      "date": "10/25/2024, 07:00 AM, +0000 UTC"
+    },
+    {
+      "position": 17,
+      "title": "應材全球第3座技術中心 落腳台灣",
+      "source": {
+        "name": "ETtoday財經雲",
+        "icon": "https://lh3.googleusercontent.com/RtaXVaC1Ok0le3n4daum4IqWYVzwP3ievzBhOfDqAEcl0zae8JaaZjQn8YMHriJiRVGXn4Nl7jw"
+      },
+      "link": "https://finance.ettoday.net/news/1295236",
+      "thumbnail": "https://cdn2.ettoday.net/images/3660/e3660990.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJXVVZOVFdZMVozWnNNRTFxVFJERUF4aW1CU2dLTWdZSlZKTE5JUWs",
+      "date": "11/01/2018, 07:00 AM, +0000 UTC"
+    },
+    {
+      "position": 18,
+      "title": "展碁國際子公司博瑞達應材登錄興櫃",
+      "source": {
+        "name": "iThome Online",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ithome.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://ithome.com.tw/pr/166334",
+      "thumbnail": "https://s4.itho.me/sites/default/files/styles/picture_size_large/public/960420_874.jpg?itok=FqDkoXxS",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5Rek5KVFVOVWNHWm1RVkZDVFJEdUFoakZCaWdLTWdZQm9KU2tQQWM",
+      "date": "12/05/2024, 08:00 AM, +0000 UTC"
+    },
+    {
+      "position": 19,
+      "title": "文藻鼓勵文科生跨域學習 邀女性科技主管暢談職涯",
+      "source": {
+        "name": "中央社即時新聞",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cna.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.cna.com.tw/postwrite/chi/356746",
+      "thumbnail": "https://imgcdn.cna.com.tw/www/postwrite/2023/20231114/00356746.202311141057776904M.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9WbFIwWm5KMllXTnhXVkZXVFJDeEF4akVCU2dLTWdhSk1aam1tUWs",
+      "date": "11/14/2023, 08:00 AM, +0000 UTC"
+    },
+    {
+      "position": 20,
+      "title": "應材成立第3座全球技術培訓中心 落腳竹科",
+      "source": {
+        "name": "大紀元",
+        "icon": "https://lh3.googleusercontent.com/JU_hZVS4S1e95CkiZWeCC7am-c2EBIfl87_Ehj_ESk46T6ZjXZTLyP96P1LYtroDU4x8Ltl06g"
+      },
+      "link": "https://www.epochtimes.com/b5/18/11/1/n10823496.htm",
+      "thumbnail": "https://www.epochtimes.com/assets/uploads/2018/11/f9c5eceabaab0598334920440f5916c4.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURNeTF2VkRGMGJIb3lRVEpPVFJERUF4aW1CU2dLTWdZRlVKcWxJQWs",
+      "date": "11/01/2018, 07:00 AM, +0000 UTC"
+    },
+    {
+      "position": 21,
+      "title": "【個股動態】不知道它你就遜掉了! 半導體復甦浪潮，台灣供應鏈的投資機會?",
+      "source": {
+        "name": "優分析",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://uanalyze.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://uanalyze.com.tw/articles/279824683",
+      "thumbnail": "https://storage.uanalyze.com.tw/article/1/covers/20240222193732184.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBkbGxMWTNsR1RtWXRabXBNVFJDa0FSaTBBaWdCTWdZWjBvZ0xSUVE",
+      "date": "02/27/2024, 08:00 AM, +0000 UTC"
+    },
+    {
+      "position": 22,
+      "title": "台灣應材台中分公司落成啟用:台灣應用材料,Franz Janker",
+      "source": {
+        "name": "CTIMES",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.ctimes.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.ctimes.com.tw/DispNews/tw/%E5%8F%B0%E7%81%A3%E6%87%89%E7%94%A8%E6%9D%90%E6%96%99/Franz-Janker/0511152009L2.shtml",
+      "thumbnail": "https://www.ctimes.com.tw/news/2005/11/15/2009346355.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBXSFJZVUZOaGF6Um1RV3RGVFJESkFSaXNBaWdLTWdZQlVKYUVLZ2s",
+      "date": "10/16/2015, 01:00 PM, +0000 UTC"
+    },
+    {
+      "position": 23,
+      "title": "應用材料公司發表最新永續報告書呈報目標與最新進展- 商情",
+      "source": {
+        "name": "工商時報",
+        "icon": "https://lh3.googleusercontent.com/AlDWYg2QoMdS31WvDxqsE04sUYGkIF-pTg6gr71OhEDpF_PoCuQqkx-8YnqKiHY6PW1_X3QDIA",
+        "authors": [
+          "陳逸"
+        ]
+      },
+      "link": "https://www.ctee.com.tw/news/20230626700654-431202",
+      "thumbnail": "https://images.ctee.com.tw/newsphoto/2023-06-26/1024/20230626700655.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtiVEJOU1VzemFFeFJZWEp4VFJDSEF4aVBCaWdLTWdhQkFxU2tEZ3c",
+      "date": "06/26/2023, 07:00 AM, +0000 UTC"
+    },
+    {
+      "position": 24,
+      "title": "巨茂應材響應淨零減碳 半導體展首度發表技術產品",
+      "source": {
+        "name": "Yahoo奇摩新聞",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://tw.news.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://tw.news.yahoo.com/%E5%B7%A8%E8%8C%82%E6%87%89%E6%9D%90%E9%9F%BF%E6%87%89%E8%BF%91%E9%9B%B6%E6%B8%9B%E7%A2%B3-%E5%8D%8A%E5%B0%8E%E9%AB%94%E5%B1%95%E9%A6%96%E5%BA%A6%E7%99%BC%E8%A1%A8%E6%8A%80%E8%A1%93%E7%94%A2%E5%93%81-115905676.html",
+      "thumbnail": "https://s.yimg.com/ny/api/res/1.2/4HDOQnBu2qyfQBKXPg93CA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2MA--/https://media.zenfs.com/vi/newstaiwandigi_com_938/4a2d574606cb4d02b638b588e73ff567",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVUV2hVVWxJNFlXWnBSRWgwVFJEb0FoaUFCU2dLTWdhMU1vUVRtUWs",
+      "date": "08/23/2023, 07:00 AM, +0000 UTC"
+    },
+    {
+      "position": 25,
+      "title": "晶美應用材料股份有限公司",
+      "source": {
+        "name": "MoneyDJ理財網",
+        "icon": "https://lh3.googleusercontent.com/NefGUIPIE227AlA1ZNiddW6ujrDOoG74yMnjYKtKA9wHY5u6QSoWotkmsmMKB-UV63-xe5AJs4E"
+      },
+      "link": "https://www.moneydj.com/kmdj/wiki/wikiviewer.aspx?keyid=f2870f08-c3a9-4e6d-8194-7f893adf4cce",
+      "thumbnail": "https://www.moneydj.com/kmdj/GetWikiFile.axd?file=f2870f08-c3a9-4e6d-8194-7f893adf4cce/2015-07-24_181410.gif",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHhZVWhuUlRCM2RqaFpMVXBGVFJDZEF4aTZCQ2dLTWdtQkFZcnFsU1hKcFFJ",
+      "date": "11/24/2016, 08:00 AM, +0000 UTC"
+    },
+    {
+      "position": 26,
+      "title": "台灣應用材料祭出6萬旅遊補助、85折認股！還要如何與半導體廠爭人才？",
+      "source": {
+        "name": "數位時代",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bnext.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.bnext.com.tw/article/62655/applied-materials-2021",
+      "thumbnail": "https://image-cdn.learnin.tw/bnextmedia/image/album/2021-05/img-1620119345-27725.jpg?w=900&output=webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUJSalJ0VEU5eFprcHlNM0pWVFJEZ0F4aUFCU2dLTWdrVlFwajBJQ21haHdJ",
+      "date": "05/04/2021, 07:00 AM, +0000 UTC"
+    },
+    {
+      "position": 27,
+      "title": "信立才傳收購普大應材 化工佈局大躍進 今卻被打入跌停 WHY?!",
+      "source": {
+        "name": "理財周刊",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.moneyweekly.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.moneyweekly.com.tw/ArticleData/Info/Article/152223",
+      "thumbnail": "https://www.moneyweekly.com.tw/Photo/Article/0904.8.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhVVTVJYUhCWlRqWTJkRk5KVFJEZ0F4aUFCU2dLTWdhcFZZYk5KUWc",
+      "date": "09/04/2024, 07:00 AM, +0000 UTC"
+    },
+    {
+      "position": 28,
+      "title": "台積電、和碩科技工程師面試心得大公開，前進竹科看這篇就夠！｜面試經驗分享面試經驗暨工作甘苦談",
+      "source": {
+        "name": "1111產經新聞網",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.1111.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.1111.com.tw/1000w/fanshome/discussTopic.asp?cat=FANS&id=243231",
+      "thumbnail": "https://images.1111.com.tw/discussPic/26/50992126_179164323.93228.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTJNMHRrY0dZdGVGaDFTME5vVFJDUkF4ajhCU2dLTWdNRm9oSQ",
+      "date": "04/23/2021, 07:00 AM, +0000 UTC"
+    },
+    {
+      "position": 29,
+      "title": "大南方最多元就業選擇 「2022南區就業博覽會」近萬人湧入成大",
+      "source": {
+        "name": "成功大學",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://web.ncku.edu.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://web.ncku.edu.tw/p/16-1000-235662.php?Lang=zh-tw",
+      "thumbnail": "https://news-secr.ncku.edu.tw/var/file/37/1037/img/857/DSC01206.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtNSFIxUWpWclVHeHBRa2haVFJERUF4aW1CU2dLTWdZQmtZem50UVk",
+      "date": "03/13/2022, 08:00 AM, +0000 UTC"
+    },
+    {
+      "position": 30,
+      "title": "應用材料公司發表十年永續藍圖的進展",
+      "source": {
+        "name": "企業經理人雜誌",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cio.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.cio.com.tw/applied-materials-progress-progress-of-a-decade-of-sustainable-development/",
+      "thumbnail": "https://bunny-wp-pullzone-azrezydg5s.b-cdn.net/wp-content/uploads/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2-2022-07-05-091242.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhhWEZFZDFaRVUyVlVSamxEVFJDZkF4ampCU2dLTWdZQlNKNkNJZ2s",
+      "date": "07/05/2022, 07:00 AM, +0000 UTC"
+    },
+    {
+      "position": 31,
+      "title": "台積公司DEI再升級，共創產業影響力",
+      "source": {
+        "name": "TSMC ESG",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://esg.tsmc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://esg.tsmc.com/articles/339",
+      "thumbnail": "https://esg.tsmc.com/_next/image?url=%2Ffile%2Fpublic%2F%E5%9C%962_%E5%8F%B0%E7%A9%8D%E5%85%AC%E5%8F%B8%E6%94%9C%E6%89%8B%E4%BE%9B%E6%87%89%E5%95%86%E9%A6%96%E8%BE%A6%E5%BA%A7%E8%AB%87%E6%9C%83%E5%88%86%E4%BA%ABDEI%E6%8E%A8%E5%8B%95%E6%88%90%E6%9E%9C.jpg&w=3840&q=75",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNDBTRFJOTkVOYWJEUmtVWEZNVFJDckFoaUNDQ2dLTWdPQkFRSQ",
+      "date": "12/26/2024, 08:00 AM, +0000 UTC"
+    },
+    {
+      "position": 32,
+      "title": "阮氏水性耐候塗料提供建築與工業防鏽隔熱全面解決方案",
+      "source": {
+        "name": "經濟日報",
+        "icon": "https://lh3.googleusercontent.com/-lhlV_JcfWT1emtFz1nOds0S9SKyI_S4rw3gtY1kSkbvEPdiitujuBX8PpcrfMLOagRF1e6kxpQ"
+      },
+      "link": "https://money.udn.com/money/story/124067/8340834",
+      "thumbnail": "https://money.udn.com/SSI/ednvip/default_logo/logo_1280.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFkek5VY0VGcFowTjFZVE0zVFJEdkF4anJCQ2dLTWdZVm81UXB0UVk",
+      "date": "11/06/2024, 08:00 AM, +0000 UTC"
+    },
+    {
+      "position": 33,
+      "title": "新應材正式興櫃掛牌研發衝刺4大領域│產經新聞網",
+      "source": {
+        "name": "1111產經新聞網",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.1111.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.1111.com.tw/news/jobns/144217",
+      "thumbnail": "https://images.1111.com.tw/11media/upload/1645437898.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdZVXgzT1VrME0wRlJTR0paVFJDUUF4am9CQ2dLTWdZQlk0aU9xUVk",
+      "date": "02/22/2022, 08:00 AM, +0000 UTC"
+    },
+    {
+      "position": 34,
+      "title": "興大理學院舉辦產學博覽會 頒獎校友傑出成就獎",
+      "source": {
+        "name": "中央社即時新聞",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cna.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.cna.com.tw/postwrite/chi/327571",
+      "thumbnail": "https://imgcdn.cna.com.tw/www/postwrite/2022/20221028/00327571.202210281009805927M.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRja00xVEMxRWVGWldOek5OVFJERUF4aW5CU2dLTWdZQmdJSlJ0QVk",
+      "date": "10/28/2022, 07:00 AM, +0000 UTC"
+    },
+    {
+      "position": 35,
+      "title": "應材樂觀後市5檔供應鏈歡呼- 證券",
+      "source": {
+        "name": "工商時報",
+        "icon": "https://lh3.googleusercontent.com/AlDWYg2QoMdS31WvDxqsE04sUYGkIF-pTg6gr71OhEDpF_PoCuQqkx-8YnqKiHY6PW1_X3QDIA"
+      },
+      "link": "https://www.ctee.com.tw/news/20210522700041-430298",
+      "thumbnail": "https://images.ctee.com.tw/newsphoto/2021-05-22/1024/20210522700042.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlibGxFVUVvdGJGcEdVRzUyVFJDZkFSaS1BaWdCTWdhaHdZQVJTUU0",
+      "date": "05/22/2021, 07:00 AM, +0000 UTC"
+    },
+    {
+      "position": 36,
+      "title": "深化學生環保意識 台灣應材「看見台灣之後」活動逾4萬師生參與 | 勁報 | LINE TODAY",
+      "source": {
+        "name": "LINE TODAY Taiwan",
+        "icon": "https://lh3.googleusercontent.com/rVRA5VXvaz_0wUnGL28Lrc2gRzeNVynE5PltZ1jZHfJemc4W6vi5jtNvCYLmvMHwXe-9jgx26g"
+      },
+      "link": "https://today.line.me/tw/v2/article/oBDGnq",
+      "thumbnail": "https://today-obs.line-scdn.net/0h5WVdvGb3anhrHXyQ7h0VL1FLaRdYcXl7Dys7eyhzNE9HJHonXn8jS0oZNU1HeS0mBSkhHE8ecUkTf35-AH4j/w580",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDRUMVJOUVV4aFYwZGliVk41VFJET0FoakVCQ2dLTWdB",
+      "date": "05/02/2021, 07:00 AM, +0000 UTC"
+    },
+    {
+      "position": 37,
+      "title": "加碼投資高雄20億 半導體大廠新應材二期南科動土 陳其邁：完整產業鏈生態系",
+      "source": {
+        "name": "Yahoo奇摩新聞",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://tw.news.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://tw.news.yahoo.com/%E5%8A%A0%E7%A2%BC%E6%8A%95%E8%B3%87%E9%AB%98%E9%9B%8420%E5%84%84-%E5%8D%8A%E5%B0%8E%E9%AB%94%E5%A4%A7%E5%BB%A0%E6%96%B0%E6%87%89%E6%9D%90%E4%BA%8C%E6%9C%9F%E5%8D%97%E7%A7%91%E5%8B%95%E5%9C%9F-%E9%99%B3%E5%85%B6%E9%82%81-%E5%AE%8C%E6%95%B4%E7%94%A2%E6%A5%AD%E9%8F%88%E7%94%9F%E6%85%8B%E7%B3%BB-033612777.html",
+      "thumbnail": "https://s.yimg.com/ny/api/res/1.2/q.bPlEGKpoxQMnZSPHuaXA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2MA--/https://media.zenfs.com/ko/pinview_com_tw_506/2956515d04fe3ee0087c5f424765238b",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBSWHB0WTA0eFlXNW9Ua1ZrVFJEb0FoaUFCU2dLTWdhQk1ZaEluZ28",
+      "date": "07/10/2023, 07:00 AM, +0000 UTC"
+    },
+    {
+      "position": 38,
+      "title": "台積公司2023年供應鏈管理論壇頒發優良供應商獎項|台灣積體電路製造股份有限公司",
+      "source": {
+        "name": "TSMC Events",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://pr.tsmc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://pr.tsmc.com/chinese/news/3086",
+      "date": "12/07/2023, 08:00 AM, +0000 UTC"
+    },
+    {
+      "position": 39,
+      "title": "美商應用材料PPACt新攻略 突圍半導體產業持續創新",
+      "source": {
+        "name": "CTIMES",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.ctimes.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.ctimes.com.tw/DispNews/tw/2105041807Z8.shtml",
+      "thumbnail": "https://www.ctimes.com.tw/news/2021/05/04/1807247190.JPG",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXZMVmgyT1dsa2MwaExOVEl3VFJEU0F4aVNCU2dLTWdtTklKeW1raW9tWndJ",
+      "date": "05/04/2021, 07:00 AM, +0000 UTC"
+    },
+    {
+      "position": 40,
+      "title": "台積電獲利破兆！「優秀供應商」有這些 應材、ASML都入列",
+      "source": {
+        "name": "Yahoo奇摩新聞",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://tw.news.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://tw.news.yahoo.com/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%B9%B4%E5%8E%BB%E5%B9%B4%E8%B3%BA4%E8%82%A1%E6%9C%AC-%E5%85%A8%E5%B9%B4%E7%8D%B2%E5%88%A9%E7%A0%B4%E5%85%86-%E5%8F%B2%E4%B8%8A%E6%9C%80%E9%AB%98-061906161.html",
+      "thumbnail": "https://s.yimg.com/ny/api/res/1.2/eKGuKfeNvkpA.LDxRXkC5Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2MA--/https://media.zenfs.com/ko/news_tvbs_com_tw_938/3f23ccf6f8aa86606656bdee941de420",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXNWMmw0YlZkaWVEVnhSMnh2VFJEb0FoaUFCU2dLTWdPSmRBUQ",
+      "date": "01/17/2023, 08:00 AM, +0000 UTC"
+    },
+    {
+      "position": 41,
+      "title": "沾台積電的光！台灣是設備進口大國，艾司摩爾與應材成最大受惠者",
+      "source": {
+        "name": "TechNews 科技新報 ",
+        "icon": "https://lh3.googleusercontent.com/RHumxzFIh7rvOu2-YsTwfd6guzUHZlP4_Vr4OuJqoN4ybvnpbnvGs1AfKX34WkEcJnYhH6up_A"
+      },
+      "link": "https://technews.tw/2020/11/29/taiwan-asml-applied-materials/",
+      "thumbnail": "https://img.technews.tw/wp-content/uploads/2020/11/26121137/ASML-768x457.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRZVkp1WDBzMU9ITkRZVUpCVFJDckF4ak9CU2dLTWdZWlZJYU5wUWM",
+      "date": "11/29/2020, 08:00 AM, +0000 UTC"
+    },
+    {
+      "position": 42,
+      "title": "台積公司頒發2022年優良供應商卓越表現獎|台灣積體電路製造股份有限公司",
+      "source": {
+        "name": "TSMC Events",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://pr.tsmc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://pr.tsmc.com/chinese/news/2995",
+      "date": "01/18/2023, 08:00 AM, +0000 UTC"
+    },
+    {
+      "position": 43,
+      "title": "應材讚後市5檔概念股沾光- 證券",
+      "source": {
+        "name": "工商時報",
+        "icon": "https://lh3.googleusercontent.com/AlDWYg2QoMdS31WvDxqsE04sUYGkIF-pTg6gr71OhEDpF_PoCuQqkx-8YnqKiHY6PW1_X3QDIA"
+      },
+      "link": "https://www.ctee.com.tw/news/20210222700038-430298",
+      "thumbnail": "https://images.ctee.com.tw/newsphoto/2021-02-22/1024/20210222700039.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpaMU5KWWxCTmVYWlllREZLVFJDZkFSaS1BaWdCTWdaQkVvZ1VGUWs",
+      "date": "02/22/2021, 08:00 AM, +0000 UTC"
+    },
+    {
+      "position": 44,
+      "title": "應材發佈突破性圖案化技術 降低晶片製程成本",
+      "source": {
+        "name": "科技島",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.technice.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.technice.com.tw/experience/enterprise/45832/",
+      "thumbnail": "https://www.technice.com.tw/wp-content/uploads/2023/04/%E6%87%89%E6%9D%90.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJhMHAxTTJKbVpsWTFVMDR4VFJENkFSaTRBeWdLTWdZZEpJaU1tUVk",
+      "date": "04/11/2023, 07:00 AM, +0000 UTC"
+    },
+    {
+      "position": 45,
+      "title": "世界先進董事會拍板253億元買8吋與12吋廠設備",
+      "source": {
+        "name": "聯合新聞網",
+        "icon": "https://lh3.googleusercontent.com/iizTH9KVBLQVV368fDUKf2gt9aYhJ4-CPNOjymVTGSpY3YvtJQ4deeoKjK4olDSMHuNc1WcG"
+      },
+      "link": "https://udn.com/news/story/7241/8337422",
+      "thumbnail": "https://p.udn.com.tw/upf/2017_news/noimg_cid6644_1.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXJiVGh1VFRFeFpWZ3dVekpTVFJDUUF4allCQ2dLTWdrQkVJckJOaVF1UmdJ",
+      "date": "11/04/2024, 08:00 AM, +0000 UTC"
+    },
+    {
+      "position": 46,
+      "title": "工研院與六大國際夥伴，共創2035未來趨勢，啟發新商機！",
+      "source": {
+        "name": "天下雜誌",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cw.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.cw.com.tw/article/5127432",
+      "thumbnail": "https://cdn-www.cw.com.tw/article/202309/article-650ad1198660e.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpNVzVJVlV0UU0xTkRWbVV5VFJERkF4aWxCU2dLTWdZUk00cHFJUW8",
+      "date": "09/26/2023, 07:00 AM, +0000 UTC"
+    },
+    {
+      "position": 47,
+      "title": "【園區公告】台灣創生 共伴計畫：文化倡議與實踐開始徵件",
+      "source": {
+        "name": "華山1914文化創意產業園區",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.huashan1914.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.huashan1914.com/w/huashan1914/news_22082915170173012",
+      "thumbnail": "https://media.huashan1914.com/WebUPD/huashan1914/news/%E7%95%A2%E6%A5%AD%E5%AD%A3%E5%85%A5%E9%81%B8%E5%90%8D%E5%96%AE_1080x800_22112411142532150.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJXbnB1UkVSdFJGUk9NSFY2VFJEZEF4aUVCU2dLTWdZRklwaG1HZ28",
+      "date": "08/29/2022, 07:00 AM, +0000 UTC"
+    },
+    {
+      "position": 48,
+      "title": "【藝文訊息】 2024年《共伴計畫：文化倡議與實踐》 徵件中！",
+      "source": {
+        "name": "華山1914文化創意產業園區",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.huashan1914.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.huashan1914.com/w/huashan1914/news_23090510154324666",
+      "thumbnail": "https://media.huashan1914.com/WebUPD/huashan1914/news/2023%E8%8F%AF%E5%B1%B1%E5%85%B1%E4%BC%B4%E8%A8%88%E7%95%ABBN_230901_02%20%E5%AE%98%E7%B6%B2%E6%B4%BB%E5%8B%95%E4%BB%8B%E7%B4%B9_1920x1080.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFXR1pZVVV0QlJra3phRzlUVFJDZkF4ampCU2dLTWdZTkpJeUhHZ2c",
+      "date": "09/05/2023, 07:00 AM, +0000 UTC"
+    },
+    {
+      "position": 49,
+      "title": "2024南區就業博覽會 逾萬人湧入成大 | 台灣好新聞 | LINE TODAY",
+      "source": {
+        "name": "LINE TODAY Taiwan",
+        "icon": "https://lh3.googleusercontent.com/rVRA5VXvaz_0wUnGL28Lrc2gRzeNVynE5PltZ1jZHfJemc4W6vi5jtNvCYLmvMHwXe-9jgx26g"
+      },
+      "link": "https://today.line.me/tw/v2/article/RB7Y0GW",
+      "thumbnail": "https://today-obs.line-scdn.net/0hrmZY9kcKLUJnID7I6BBSFV92ITNURjdLRRZiIkJ3diFJDGsUUxN-IUZzd24aEm0WR05gLUEhJCVPEmlHDw/w580",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNVdaRnBNUjNwRWVVczJTVVZ1VFJDREF4akVCQ2dLTWdzQk1JUWlLU1R3Q0NvdXNn",
+      "date": "03/10/2024, 08:00 AM, +0000 UTC"
+    },
+    {
+      "position": 50,
+      "title": "桃竹苗分署轄區 2 家企業榮獲國家人才發展獎 展現培育卓越人才提升人力資本雄厚實力",
+      "source": {
+        "name": "奧丁丁新聞 OwlNews",
+        "icon": "https://lh3.googleusercontent.com/vA4En2r-oUoT-9xaSD7gkbYu4m3Pio3QsCX3UrOPg3VJ0u_wbmVGgbLRKmmrCOfWCd_DaMZd"
+      },
+      "link": "https://news.owlting.com/articles/549623",
+      "thumbnail": "https://d1b8dyiuti31bx.cloudfront.net/NewsPhotos/20231212/20_070144641215.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhjVXQwVW05SmRrb3RjRlJKVFJDNEFSaVNBaWdCTWdZQm9KQkJ1QVk",
+      "date": "12/11/2023, 08:00 AM, +0000 UTC"
+    },
+    {
+      "position": 51,
+      "title": "2023國家人才發展獎 十七家績優單位獲頒人力資源最高榮譽，打造臺灣成為人才永續寶島",
+      "source": {
+        "name": "今周刊-在今天看見明天",
+        "icon": "https://lh3.googleusercontent.com/gWqwPXXVtPGxbC1g1-Fc3ccw4_BgF9y2RWoAaEFSdqRMtZtBNIX-wX_dvwVC__EYZ8zXDnX9oA"
+      },
+      "link": "https://www.businesstoday.com.tw/article/category/183034/post/202312130087/",
+      "thumbnail": "https://doqvf81n9htmm.cloudfront.net/data/crop_article/153756/bhh1.jpg_1140x855.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXhOWFZzYXpVNWJYUnVaMjFHVFJEZ0F4aUFCU2dLTWdrQmtKUjJPQ2U1RGdJ",
+      "date": "12/15/2023, 08:00 AM, +0000 UTC"
+    },
+    {
+      "position": 52,
+      "title": "高美館黃心健特展《X人稱》 文化平權展場設計打造友輪空間 | 新頭殼 | LINE TODAY",
+      "source": {
+        "name": "LINE TODAY Taiwan",
+        "icon": "https://lh3.googleusercontent.com/rVRA5VXvaz_0wUnGL28Lrc2gRzeNVynE5PltZ1jZHfJemc4W6vi5jtNvCYLmvMHwXe-9jgx26g"
+      },
+      "link": "https://today.line.me/tw/v2/article/Ya0BM3Q",
+      "thumbnail": "https://today-obs.line-scdn.net/0hcTIWuzKzPHt0LilrO_dDLEx4MApHSCZyVkx3H1EnZx5eAispHEFvGAMmYFcJFngvVE1xFVQnMUxYFn8rGg/w580",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxhbXRzVGxoaVMzbHRlWGx4VFJDekF4akVCQ2dLTWdhRjRZb0d6UVE",
+      "date": "11/18/2022, 08:00 AM, +0000 UTC"
+    },
+    {
+      "position": 53,
+      "title": "「共伴計畫：文化永續．創新實踐」計畫徵件！",
+      "source": {
+        "name": "華山1914文化創意產業園區",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.huashan1914.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.huashan1914.com/w/huashan1914/exhibition_20100615491039881",
+      "thumbnail": "https://media.huashan1914.com/WebUPD/huashan1914/exhibition/2_20100718253446374.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFiR0ZwVXkxWllYa3lRM2RhVFJDaEF4amdCU2dLTWdhRlVwYUhvZ2s",
+      "date": "10/06/2020, 07:00 AM, +0000 UTC"
+    },
+    {
+      "position": 54,
+      "title": "2024 2025【共伴計畫：倡議與實踐】 徵件",
+      "source": {
+        "name": "獎金獵人",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://bhuntr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://bhuntr.com/tw/competitions/e6bltoyzn07cocfbsj",
+      "thumbnail": "https://cdn.bountyhunter.co/file/5cde3882-90ca-4749-ad77-29ad87b86cb1.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFkWFV5VFU0ME9XdGZPVEJIVFJDekF4akNCU2dLTWdhVlU1THJKUWc",
+      "date": "10/24/2024, 07:00 AM, +0000 UTC"
+    },
+    {
+      "position": 55,
+      "title": "台積電2022年優良供應商 台廠新應材、達欣工、帆宣等獲獎",
+      "source": {
+        "name": "Yahoo奇摩股市",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://tw.stock.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB-2022-%E5%B9%B4%E5%84%AA%E8%89%AF%E4%BE%9B%E6%87%89%E5%95%86-%E5%8F%B0%E5%BB%A0%E6%96%B0%E6%87%89%E6%9D%90%E3%80%81%E9%81%94%E6%AC%A3%E5%B7%A5%E3%80%81%E5%B8%86%E5%AE%A3%E7%AD%89%E7%8D%B2%E7%8D%8E-063328009.html",
+      "thumbnail": "https://s.yimg.com/ny/api/res/1.2/GKoWmWNZOkxg47Rzhj38lw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNw--/https://s.yimg.com/os/creatr-uploaded-images/2023-01/1f448240-96f9-11ed-9a3d-ddab2a58461c",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFkbWxHV0haeVRVODNhRGN3VFJDckF4aUFCU2dLTWdhcGRKYXVyUWM",
+      "date": "01/18/2023, 08:00 AM, +0000 UTC"
+    },
+    {
+      "position": 56,
+      "title": "「文化議題的公共倡議」",
+      "source": {
+        "name": "華山1914文化創意產業園區",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.huashan1914.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.huashan1914.com/w/huashan1914/exhibition_21080416451956578",
+      "thumbnail": "https://media.huashan1914.com/WebUPD/huashan1914/exhibition/%E8%B7%A8%E5%9F%9F%E5%BD%B1%E9%9F%BF%E5%8A%9B%E8%AB%96%E5%A3%87banner.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUxWazgwUlhnNE9XeHpRVnAyVFJDR0F4aVRCaWdLTWdNcGNRNA",
+      "date": "08/05/2021, 07:00 AM, +0000 UTC"
+    },
+    {
+      "position": 57,
+      "title": "台積電去年供應商卓越表現獎出爐 台廠3家入列",
+      "source": {
+        "name": "自由財經",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ec.ltn.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://ec.ltn.com.tw/article/breakingnews/4188828",
+      "thumbnail": "https://img.ltn.com.tw/Upload/business/page/800/2023/01/18/phpM8Aa0s.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJValpEV0RGVFZHNTVSRm80VFJEZkF4aUFCU2dLTWdZSmdveXNNUWM",
+      "date": "01/18/2023, 08:00 AM, +0000 UTC"
+    },
+    {
+      "position": 58,
+      "title": "【新聞稿】全臺15文化園區齊聚華山，捲動臺灣文創生態網絡- 烏梅劇院",
+      "source": {
+        "name": "華山1914文化創意產業園區",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.huashan1914.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.huashan1914.com/w/umaytheater/news_20122409470202154",
+      "thumbnail": "https://media.huashan1914.com/WebUPD/umaytheater/news/%EF%BC%88%E5%9C%96%E8%AA%AA1%EF%BC%89%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E8%97%9D%E8%A1%93%E5%A4%A7%E5%AD%B8%20%E8%97%9D%E8%A1%93%E7%AE%A1%E7%90%86%E8%88%87%E6%96%87%E5%8C%96%E6%94%BF%E7%AD%96%E7%A0%94%E7%A9%B6%E6%89%80%20%E5%8A%89%E4%BF%8A%E8%A3%95%E6%95%99%E6%8E%88%E4%B8%BB%E6%8C%81%E6%9C%83%E8%AD%B0_20122409542299853.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBTM0JIT0c5WGQxZGZWalZJVFJERUF4aW1CU2dLTWdhaGc0Z0xzZ1k",
+      "date": "12/21/2020, 08:00 AM, +0000 UTC"
+    },
+    {
+      "position": 59,
+      "title": "疫情衝擊教學更艱困偏鄉教育捐款銳減六成歲末年終博幼基金會偏鄉學童急需外界支持渡教學寒冬",
+      "source": {
+        "name": "中央社即時新聞",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cna.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.cna.com.tw/postwrite/chi/308372",
+      "thumbnail": "https://imgcdn.cna.com.tw/www/postwrite/2022/20220113/00308372.202201132122779700M.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVVZVEZuYW10NmFrSkZkR3RwVFJEZkF4aUFCU2dLTWdtQlVJZ0NMLWMwU0FJ",
+      "date": "01/13/2022, 08:00 AM, +0000 UTC"
+    },
+    {
+      "position": 60,
+      "title": "應材全球裁減1700名員工:裁員,應用材料公司",
+      "source": {
+        "name": "CTIMES",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.ctimes.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.ctimes.com.tw/DispNews/tw/%E8%A3%81%E5%93%A1/%E6%87%89%E7%94%A8%E6%9D%90%E6%96%99%E5%85%AC%E5%8F%B8/01121418331V.shtml",
+      "date": "07/14/2018, 04:39 AM, +0000 UTC"
+    },
+    {
+      "position": 61,
+      "title": "台灣應材新組織團隊正式亮相:應用材料,半導體製造與測試",
+      "source": {
+        "name": "CTIMES",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.ctimes.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.ctimes.com.tw/DispNews/tw/%E6%87%89%E7%94%A8%E6%9D%90%E6%96%99/%E5%8D%8A%E5%B0%8E%E9%AB%94%E8%A3%BD%E9%80%A0%E8%88%87%E6%B8%AC%E8%A9%A6/0311081303SU.shtml",
+      "date": "01/18/2017, 04:14 AM, +0000 UTC"
+    },
+    {
+      "position": 62,
+      "title": "紀錄片《看見台灣》徵文比賽 義民高中、竹東高中學生獲獎",
+      "source": {
+        "name": "新竹縣政府",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.hsinchu.gov.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.hsinchu.gov.tw/News_Content.aspx?n=139&s=98773",
+      "thumbnail": "https://ws.hsinchu.gov.tw/001/Upload/1/RelPic/8603/98773/%E7%9C%8B%E8%A6%8B%E5%8F%B0%E7%81%A3%E4%B9%8B%E5%BE%8C%E5%B0%8D%E5%9C%9F%E5%9C%B0%E7%9A%84%E6%89%BF%E8%AB%BE%EF%BC%8C%E5%AD%B8%E7%94%9F%E5%8F%8D%E6%87%89%E7%86%B1%E7%B5%A1%E3%80%82@710x470.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhTVUpDTW5GYVJWWTRNMW93VFJDc0FSaW1BaWdCTWdZSkFKYmtIZ2s",
+      "date": "07/31/2018, 04:32 AM, +0000 UTC"
+    },
+    {
+      "position": 63,
+      "title": "應材台南顯示器設備製造中心與研發實驗室開幕- 產業",
+      "source": {
+        "name": "工商時報",
+        "icon": "https://lh3.googleusercontent.com/AlDWYg2QoMdS31WvDxqsE04sUYGkIF-pTg6gr71OhEDpF_PoCuQqkx-8YnqKiHY6PW1_X3QDIA"
+      },
+      "link": "https://www.ctee.com.tw/news/20190605700654-430502",
+      "thumbnail": "https://images.ctee.com.tw/newsphoto/2019-06-05/1024/20190605700655.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBhakJhUVVsWE1WQlRRMkZ4VFJEbUFoalpCaWdLTWdZQmtJcFFRUVk",
+      "date": "06/05/2019, 07:00 AM, +0000 UTC"
+    },
+    {
+      "position": 64,
+      "title": "創新公司攜手應材創投首度在台舉辦新創競賽- 財經 - 工商",
+      "source": {
+        "name": "中時新聞網",
+        "icon": "https://lh3.googleusercontent.com/rFkf-wc9xUgfS7qU1NI946heXKrONJRvx4Re9wa5BtGbz1yTjZyo02Mtsn68QJXwwFq7EuHa"
+      },
+      "link": "https://www.chinatimes.com/realtimenews/20191119002649-260410",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2019-11-19/656/20191119002650.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZhWFp4Wm5ORFkwcEdNMEpzVFJDakF4aVFCU2dLTWdhQlVKYkRwQWc",
+      "date": "11/19/2019, 08:00 AM, +0000 UTC"
+    },
+    {
+      "position": 65,
+      "title": "【金貿新焦點 會展齊脈動】經濟部頒發金貿獎、臺灣會展獎予15家出口績優企業及8項會展活動主辦單位",
+      "source": {
+        "name": "經貿透視",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.trademag.org.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.trademag.org.tw/page/newsid1/?id=771482&iz=1",
+      "thumbnail": "https://www.trademag.org.tw/Upload/tam_tam/771482/2.JPG",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURkSEJMVkV4WmJqbGpXVU5rVFJERUF4aW1CU2dLTWdZQlVJcUZRQVE",
+      "date": "09/07/2020, 07:00 AM, +0000 UTC"
+    },
+    {
+      "position": 66,
+      "title": "台積公司舉辦「供應鏈管理論壇」表揚優良供應商",
+      "source": {
+        "name": "TSMC ESG",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://esg.tsmc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://esg.tsmc.com/ch/update/responsibleSupplyChain/caseStudy/5/index.html",
+      "thumbnail": "https://esg.tsmc.com/ch/update/responsibleSupplyChain/caseStudy/5/banner_01.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpSamRGY0hOc2JUbExlRWxOVFJEM0FoaXlCaWdLTWdZQkVKQnRrUXM",
+      "date": "12/07/2017, 08:00 AM, +0000 UTC"
+    },
+    {
+      "position": 67,
+      "title": "2023 2024年【共伴計畫：文化倡議與實踐】 徵件中！",
+      "source": {
+        "name": "獎金獵人",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://bhuntr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://bhuntr.com/tw/competitions/duss866e1f476ckxme",
+      "thumbnail": "https://cdn.bountyhunter.co/file/f3073d3f-0424-440b-b56f-b05a549c3594.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVphRmR1VXkxbVVIQlZVMGN4VFJDekF4akJCU2dLTWdtQk5JeWxudVdhSndJ",
+      "date": "09/04/2023, 07:00 AM, +0000 UTC"
+    },
+    {
+      "position": 68,
+      "title": "應用材料公司最新電子束量測系統提升高數值孔徑極紫外光微影製程的控制與良率",
+      "source": {
+        "name": "蕃新聞",
+        "icon": "https://lh3.googleusercontent.com/qJ5EJZ0FX02H2ryjFoe0W3BxE7CYH6L4yHj6QAgPbrDxAUVwP56bo0roMKlg3rnOJR8ks_U5"
+      },
+      "link": "https://n.yam.com/Article/20230308320700",
+      "thumbnail": "https://news.taiwannet.com.tw/images/user_uploaded/89514_681b8631d3b0440e90868607b72177bf.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtVRVJzTW00NU9XYzRSVGhzVFJDZkF4ampCU2dLTWdhZFJKRExyUVk",
+      "date": "03/08/2023, 08:00 AM, +0000 UTC"
+    },
+    {
+      "position": 69,
+      "title": "應用材料公司的突破性電子束成像技術加速世界最先進電腦晶片的開發",
+      "source": {
+        "name": "蕃新聞",
+        "icon": "https://lh3.googleusercontent.com/qJ5EJZ0FX02H2ryjFoe0W3BxE7CYH6L4yHj6QAgPbrDxAUVwP56bo0roMKlg3rnOJR8ks_U5"
+      },
+      "link": "https://n.yam.com/Article/20221219525430",
+      "thumbnail": "https://news.taiwannet.com.tw/images/user_uploaded/85351_6c7a9e22f026414faa4f08a60d79be3e.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW1RM2sxYjI5YWRsVm5kMUUzVFJDbkF4alZCU2dLTWdrTkVJUXBrcWd0U0FJ",
+      "date": "12/19/2022, 08:00 AM, +0000 UTC"
+    },
+    {
+      "position": 70,
+      "title": "福大材料涉詐貸4億 董事長楊燈霖被起訴",
+      "source": {
+        "name": "自由時報",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://news.ltn.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://news.ltn.com.tw/news/society/breakingnews/3018498",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2019/12/24/php5a5D6e.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhUVWhwZERodmJ6WlRlVzlqVFJEUkFoallCQ2dLTWdhSlFweFJIUWs",
+      "date": "12/24/2019, 08:00 AM, +0000 UTC"
+    },
+    {
+      "position": 71,
+      "title": "台積電認證 點名15家優良供應商",
+      "source": {
+        "name": "天下雜誌",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cw.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.cw.com.tw/article/5103034",
+      "thumbnail": "https://cdn-www.cw.com.tw/article/202012/article-5fc9ac86d7d3a.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9NVEZ1TmxSTGFYVXRhRzlmVFJERkF4aWxCU2dLTWdZQmdJQU1TZ1U",
+      "date": "12/04/2020, 08:00 AM, +0000 UTC"
+    },
+    {
+      "position": 72,
+      "title": "2024南區就業博覽會 逾萬人湧入成大",
+      "source": {
+        "name": "Yahoo奇摩新聞",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://tw.news.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://tw.news.yahoo.com/2024%E5%8D%97%E5%8D%80%E5%B0%B1%E6%A5%AD%E5%8D%9A%E8%A6%BD%E6%9C%83-%E9%80%BE%E8%90%AC%E4%BA%BA%E6%B9%A7%E5%85%A5%E6%88%90%E5%A4%A7-094530217.html",
+      "thumbnail": "https://s.yimg.com/ny/api/res/1.2/4qB3qBwAp.a.b.pYLHobzg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNw--/https://media.zenfs.com/ko/taiwanhot.net.tw/a1e8511b650576bb7842a410f42584e6",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNTJTRXBLWDA5RWJqUlZjakZKVFJDckF4aUFCU2dLTWdzQk1JWmlxV1ZMRlRrd3Nn",
+      "date": "03/10/2024, 08:00 AM, +0000 UTC"
+    },
+    {
+      "position": 73,
+      "title": "台積電今頒發20家優良供應商獎 帆宣、和淞等台廠入榜",
+      "source": {
+        "name": "自由財經",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ec.ltn.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://ec.ltn.com.tw/article/breakingnews/4514120",
+      "thumbnail": "https://img.ltn.com.tw/Upload/business/page/800/2023/12/07/4514120_1.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXdhbVZMWDBaS056Sk9ZVzVhVFJDckF4ak5CU2dLTWdrQmdJakd2T1JpTFFJ",
+      "date": "12/07/2023, 08:00 AM, +0000 UTC"
+    },
+    {
+      "position": 74,
+      "title": "國際新媒體藝術大師黃心健 亞洲首次大型回顧展《Ｘ人稱》 響應台灣設計展 高美館重磅登場",
+      "source": {
+        "name": "非池中藝術網",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://artemperor.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://artemperor.tw/focus/5087",
+      "thumbnail": "https://d3d9mb8xdsbq52.cloudfront.net/s3/221017/175428omf.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNjMUJzYjJWUGNIWlllRlYwVFJEREF4aW9CU2dLTWdZQmtKSWtOZ2M",
+      "date": "10/17/2022, 07:00 AM, +0000 UTC"
+    },
+    {
+      "position": 75,
+      "title": "共伴計畫跨域影響力系列論壇8月起登場 盼透過大眾參與強化文化韌性",
+      "source": {
+        "name": "Yahoo奇摩新聞",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://tw.news.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://tw.news.yahoo.com/%E5%85%B1%E4%BC%B4%E8%A8%88%E7%95%AB%E8%B7%A8%E5%9F%9F%E5%BD%B1%E9%9F%BF%E5%8A%9B%E7%B3%BB%E5%88%97%E8%AB%96%E5%A3%878%E6%9C%88%E8%B5%B7%E7%99%BB%E5%A0%B4-%E7%9B%BC%E9%80%8F%E9%81%8E%E5%A4%A7%E7%9C%BE%E5%8F%83%E8%88%87%E5%BC%B7%E5%8C%96%E6%96%87%E5%8C%96%E9%9F%8C%E6%80%A7-092339843.html",
+      "thumbnail": "https://s.yimg.com/ny/api/res/1.2/1UdfsGZslKqzDOziAgX3WQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTg5MQ--/https://media.zenfs.com/ko/ner.gov.tw/60302e06d0901b10d4969e4b88d358a2",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWplbVJ4V1ZCM1ExSjVWMnBqVFJDTkJSalZBeWdLTWdZWk5JYk50UVk",
+      "date": "08/17/2021, 07:00 AM, +0000 UTC"
+    },
+    {
+      "position": 76,
+      "title": "京東方訂購應用材料公司設備，加速大尺寸液晶顯示電視的生產",
+      "source": {
+        "name": "TechNews 科技新報 ",
+        "icon": "https://lh3.googleusercontent.com/RHumxzFIh7rvOu2-YsTwfd6guzUHZlP4_Vr4OuJqoN4ybvnpbnvGs1AfKX34WkEcJnYhH6up_A"
+      },
+      "link": "https://technews.tw/2016/11/21/boe-applied-materials/",
+      "thumbnail": "https://img.technews.tw/wp-content/uploads/2015/12/boe.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBiVWcwVUhaR1JqaFFha00wVFJETUF4aWFCU2dLTWdhQlVKUlF0UVk",
+      "date": "11/21/2016, 08:00 AM, +0000 UTC"
+    },
+    {
+      "position": 77,
+      "title": "2017台灣10大專利申請王 台積電續稱霸 遠東科大學校組稱王",
+      "source": {
+        "name": "Yahoo奇摩新聞",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://tw.news.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://tw.news.yahoo.com/2017%E5%8F%B0%E7%81%A310%E5%A4%A7%E5%B0%88%E5%88%A9%E7%94%B3%E8%AB%8B%E7%8E%8B-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E7%BA%8C%E7%A8%B1%E9%9C%B8-%E9%81%A0%E6%9D%B1%E7%A7%91%E5%A4%A7%E5%AD%B8%E6%A0%A1%E7%B5%84%E7%A8%B1%E7%8E%8B-071250368.html",
+      "thumbnail": "https://s.yimg.com/ny/api/res/1.2/bS1Zg3Ku.7XY7geutNY_gg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQzMA--/https://media.zenfs.com/zh-Hant-TW/homerun/taiwanhot.net.tw/88f1e69395ade54df875205ce61c9d48",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUdjVWRVY1hGYVlXeHdhVEI1VFJDdUF4al9CQ2dLTWdNWnNBQQ",
+      "date": "02/05/2018, 08:00 AM, +0000 UTC"
+    },
+    {
+      "position": 78,
+      "title": "未足額進用身障勞工 林口長庚再度蟬聯第一",
+      "source": {
+        "name": "自由時報",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://news.ltn.com.tw&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://news.ltn.com.tw/news/life/breakingnews/1893335",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2016/11/21/phpdC5wm8.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFlVnBLUWtrMGNIUTNRMWQxVFJDSEF4allCQ2dLTWdZQm9JNjBQQVk",
+      "date": "11/21/2016, 08:00 AM, +0000 UTC"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "台灣",
+      "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRFptTXpJU0JYcG9MVlJYS0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=tw&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRFptTXpJU0JYcG9MVlJYS0FBUAE"
+    },
+    {
+      "title": "國際",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JYcG9MVlJYR2dKVVZ5Z0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=tw&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JYcG9MVlJYR2dKVVZ5Z0FQAQ"
+    },
+    {
+      "title": "地方新聞",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=tw&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "商業",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JYcG9MVlJYR2dKVVZ5Z0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=tw&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JYcG9MVlJYR2dKVVZ5Z0FQAQ"
+    },
+    {
+      "title": "科學與科技",
+      "topic_token": "CAAqLAgKIiZDQkFTRmdvSkwyMHZNR1ptZHpWbUVnVjZhQzFVVnhvQ1ZGY29BQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=tw&topic_token=CAAqLAgKIiZDQkFTRmdvSkwyMHZNR1ptZHpWbUVnVjZhQzFVVnhvQ1ZGY29BQVAB"
+    },
+    {
+      "title": "娛樂",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JYcG9MVlJYR2dKVVZ5Z0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=tw&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JYcG9MVlJYR2dKVVZ5Z0FQAQ"
+    },
+    {
+      "title": "體育",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JYcG9MVlJYR2dKVVZ5Z0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=tw&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JYcG9MVlJYR2dKVVZ5Z0FQAQ"
+    },
+    {
+      "title": "健康",
+      "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JYcG9MVlJYS0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=tw&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JYcG9MVlJYS0FBUAE"
+    }
+  ]
+}
