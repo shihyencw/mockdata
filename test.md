@@ -4,7 +4,7 @@
 
 流程圖
 
-```
+```mermaid
 graph TD
     A[開始] --> B{是否熟悉 Markdown?}
     B -->|是| C[直接開始寫作]
