@@ -4,6 +4,7 @@
 
 流程圖
 
+```
 graph TD
     A[開始] --> B{是否熟悉 Markdown?}
     B -->|是| C[直接開始寫作]
@@ -15,6 +16,7 @@ graph TD
     G --> H[持續改進]
 HTML 標籤
 Markdown 支援部分 HTML 標籤：
+```
 
 <details> <summary>點擊展開詳細內容</summary>
 這裡是隱藏的內容，只有點擊上方標題才會顯示。
